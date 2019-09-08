@@ -5,13 +5,17 @@ library(httr)
 library(gridExtra)
 
 # Loading barchart of the day data for 2019
-barchart <- read_csv("barchart_of_the_day.csv")
+barchart <- read_csv("chart_of_the_day.csv")
+
+barchart <- barchart %>%
+  select(-url)
 
 # Glimpse to the data
-barchart %>% head
+barchart %>% nrow
+barchart %>% tail
 
 # % of technical analysis indicators are long
-as.tibble(barchart$signal_perc %>% table %>% prop.table %>% round(4) * 100) 
+as_tibble(barchart$signal_perc %>% table %>% prop.table %>% round(4) * 100) 
 
 ###########################
 ## GETTING DATA FROM IEX ##
@@ -19,7 +23,7 @@ as.tibble(barchart$signal_perc %>% table %>% prop.table %>% round(4) * 100)
 
 # Set params for IEX API 
 params <- list(
-  token = "your_token_here",
+  token = "sk_302614ec649147c18c6a21e374f2916b",
   chartByDay = "true"
 )
 
@@ -62,7 +66,6 @@ symbol_data_list <- lapply(
 # Union list as data frame 
 symbol_data_df <- bind_rows(symbol_data_list)
 
-# Get SPY data
 spy_url <- "https://cloud.iexapis.com/stable/stock/SPY/chart/ytd"
 
 spy <- as.data.frame(
@@ -76,8 +79,6 @@ spy <- spy %>%
   mutate(date = as.Date(date)) %>%
   select(date, spy = close) %>%
   filter(date >= min(barchart$entry_date))
-
-head(spy)
 
 # Get Last availabe price for each symbol
 last_price <- symbol_data_df %>%
@@ -97,10 +98,8 @@ barchart_pnl_publish_today <- barchart %>%
     pnl = (last_price / entry_price -1) * 100
   )
 
-# Looking at pnl summary
 barchart_pnl_publish_today$pnl %>% summary
 
-# Check SPY performance
 cat(str_c("SPY Perf: ", round((last(spy$spy) / first(spy$spy) - 1) * 100, 2)))
 
 options(repr.plot.width=4, repr.plot.height=3)
@@ -121,57 +120,32 @@ barchart_daily <- barchart_daily %>%
   group_by(symbol) %>%
   arrange(date) %>%
   mutate(
-    price_norm = close / first(close) * 100,
-    days_from_entry = date - entry_date
+    pnl = replace_na(close / lag(close) - 1, 0)
   ) %>%
   ungroup
 
-# Calculating average price for all symbols by date
-day_avg <- barchart_daily %>%
-  group_by(date) %>%
-  mutate(
-    avg_price_norm = mean(price_norm)
-  ) 
 
 # Calculating average price for all symbol by number of date from investments/publishing date
 day_from_entry_avg <- barchart_daily %>%
-  group_by(days_from_entry) %>%
+  filter(date > entry_date) %>%
+  group_by(date) %>%
+  summarise(
+    avg_pnl  = mean(pnl)
+  ) %>%
+  arrange(date) %>%
   mutate(
-    avg_price_norm = mean(price_norm)
-  ) 
+    avg_cum_pnl = cumprod(1 + avg_pnl) * 100
+  )
 
 spy <- spy %>%
   mutate(
     spy_norm = spy / first(spy) * 100
   )
 
-# Plotting prices by date
-p1 <- ggplot(barchart_daily, aes(x = date, y = price_norm, color = symbol)) + 
-  geom_line() + 
-  theme(legend.position = "none") + 
-  ylab("Price") + 
-  xlab("")
 
-p2 <- ggplot(data = day_avg, aes(x = date, y = avg_price_norm, color = "Avg Price")) + 
+ggplot(data = day_from_entry_avg, aes(x = date, y = avg_cum_pnl, color = "Avg Pnl")) + 
   geom_line() + 
-  geom_hline(yintercept = 100) + 
-  geom_line(data = spy, aes(x = date, y = spy_norm, color = "SPY")) +
+  geom_line(data = spy, aes(x = date, y = spy_norm, color = "SPY Pnl")) +
   ylab("Price") + 
   xlab("Date") + 
   theme(legend.position = c(0.1, 0.8), legend.title = element_blank())
-
-grid.arrange(p1, p2, ncol = 1, nrow = 2)       
-
-p1 <- ggplot(barchart_daily, aes(x = days_from_entry, y = price_norm, color = symbol)) + 
-  geom_line() + 
-  theme(legend.position = "none")  + 
-  ylab("Price") + 
-  xlab("")
-
-p2 <- ggplot(data = day_from_entry_avg, aes(x = days_from_entry, y = avg_price_norm)) + 
-  geom_line(color = "gray") + 
-  geom_hline(yintercept = 100) + 
-  ylab("Price") + 
-  xlab("Days in Trade")
-
-grid.arrange(p1, p2, ncol = 1, nrow = 2)         
