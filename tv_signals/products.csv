@@ -1,0 +1,25 @@
+ticker,type,name
+BNBUSD,crypto,Binance Coin / US Dollar (calculated by TradingView)
+BTCUSD,crypto,Bitcoin / Dollar
+DASHUSD,crypto,Dash / US Dollar (calculated by TradingView)
+EOSUSD,crypto,EOS / US Dollar (calculated by TradingView)
+ETHUSD,crypto,Ethereum / US Dollar (calculated by TradingView)
+IOTAUSD,crypto,IOTA / US Dollar (calculated by TradingView)
+LTCUSD,crypto,Litecoin / US Dollar (calculated by TradingView)
+XRPUSD,crypto,XRP / U.S. dollar
+DAX,index,DAX INDEX
+DJI,index,Dow Jones Industrial Average
+IXIC,index,NASDAQ COMPOSITE
+NI225,index,NIKKEI 225
+NIFTY,index,NIFTY 50
+SPX,index,S&P 500
+TSX,index,S&P/TSX COMPOSITE INDEX
+VIX,index,CBOE VOLATILITY INDEX
+AAPL,stock,APPLE INC
+AMZN,stock,AMAZON COM INC
+BABA,stock,ALIBABA GROUP HOLDING LTD SPON ADS EACH REP 8 ORD SHS
+FB,stock,FACEBOOK INC
+GOOG,stock,ALPHABET INC
+JNJ,stock,JOHNSON & JOHNSON
+JPM,stock,JPMORGAN CHASE & CO.
+MSFT,stock,MICROSOFT CORP

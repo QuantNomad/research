@@ -1,0 +1,2913 @@
+date,type,ticker,rating_osc,rating_ma
+2019-09-22,crypto,IOTAUSD,Buy,Buy
+2019-09-22,crypto,BTCUSD,Neutral,Srong Sell
+2019-09-22,crypto,EOSUSD,Buy,Sell
+2019-09-22,crypto,LTCUSD,Buy,Sell
+2019-09-22,crypto,BNBUSD,Buy,Srong Sell
+2019-09-22,crypto,XRPUSD,Buy,Sell
+2019-09-22,crypto,DASHUSD,Buy,Neutral
+2019-09-22,crypto,ETHUSD,Buy,Srong Buy
+2019-09-23,index,TSX,Neutral,Srong Buy
+2019-09-23,index,DJI,Buy,Buy
+2019-09-23,index,SPX,Neutral,Srong Buy
+2019-09-23,index,DAX,Buy,Srong Buy
+2019-09-23,index,NIFTY,Buy,Srong Buy
+2019-09-23,index,NI225,Buy,Srong Buy
+2019-09-23,index,VIX,Sell,Sell
+2019-09-23,index,IXIC,Buy,Buy
+2019-09-23,crypto,LTCUSD,Buy,Sell
+2019-09-23,crypto,IOTAUSD,Buy,Buy
+2019-09-23,crypto,BNBUSD,Buy,Srong Sell
+2019-09-23,crypto,EOSUSD,Neutral,Srong Sell
+2019-09-23,crypto,BTCUSD,Neutral,Srong Sell
+2019-09-23,crypto,XRPUSD,Buy,Sell
+2019-09-23,crypto,ETHUSD,Buy,Srong Buy
+2019-09-23,crypto,DASHUSD,Buy,Sell
+2019-09-23,stock,AAPL,Buy,Srong Buy
+2019-09-23,stock,FB,Buy,Srong Buy
+2019-09-23,stock,JPM,Buy,Srong Buy
+2019-09-23,stock,GOOG,Neutral,Srong Buy
+2019-09-23,stock,JNJ,Buy,Buy
+2019-09-23,stock,AMZN,Buy,Srong Sell
+2019-09-23,stock,BABA,Neutral,Srong Buy
+2019-09-23,stock,MSFT,Buy,Srong Buy
+2019-09-24,crypto,XRPUSD,Buy,Srong Sell
+2019-09-24,crypto,DASHUSD,Buy,Srong Sell
+2019-09-24,crypto,BNBUSD,Buy,Srong Sell
+2019-09-24,crypto,EOSUSD,Sell,Srong Sell
+2019-09-24,crypto,LTCUSD,Buy,Srong Sell
+2019-09-24,crypto,ETHUSD,Buy,Sell
+2019-09-24,crypto,BTCUSD,Sell,Srong Sell
+2019-09-24,crypto,IOTAUSD,Buy,Buy
+2019-09-24,stock,BABA,Buy,Srong Buy
+2019-09-24,stock,AMZN,Neutral,Srong Sell
+2019-09-24,stock,JNJ,Neutral,Buy
+2019-09-24,stock,GOOG,Neutral,Srong Buy
+2019-09-24,stock,JPM,Neutral,Srong Buy
+2019-09-24,stock,FB,Buy,Sell
+2019-09-24,stock,AAPL,Buy,Srong Buy
+2019-09-24,stock,MSFT,Buy,Srong Buy
+2019-09-24,index,TSX,Sell,Srong Buy
+2019-09-24,index,DJI,Buy,Buy
+2019-09-24,index,IXIC,Neutral,Buy
+2019-09-24,index,SPX,Buy,Srong Buy
+2019-09-24,index,NIFTY,Buy,Srong Buy
+2019-09-24,index,NI225,Buy,Srong Buy
+2019-09-24,index,DAX,Buy,Srong Buy
+2019-09-24,index,VIX,Neutral,Srong Sell
+2019-09-25,stock,BABA,Sell,Sell
+2019-09-25,stock,GOOG,Buy,Srong Buy
+2019-09-25,stock,AAPL,Neutral,Srong Buy
+2019-09-25,stock,JPM,Buy,Srong Buy
+2019-09-25,stock,JNJ,Buy,Buy
+2019-09-25,stock,MSFT,Buy,Sell
+2019-09-25,stock,FB,Sell,Srong Sell
+2019-09-25,stock,AMZN,Sell,Srong Sell
+2019-09-25,crypto,XRPUSD,Sell,Srong Sell
+2019-09-25,crypto,ETHUSD,Sell,Srong Sell
+2019-09-25,crypto,BNBUSD,Buy,Srong Sell
+2019-09-25,crypto,BTCUSD,Neutral,Srong Sell
+2019-09-25,crypto,IOTAUSD,Neutral,Srong Sell
+2019-09-25,crypto,DASHUSD,Neutral,Srong Sell
+2019-09-25,crypto,LTCUSD,Buy,Srong Sell
+2019-09-25,crypto,EOSUSD,Buy,Srong Sell
+2019-09-25,index,VIX,Neutral,Srong Buy
+2019-09-25,index,IXIC,Neutral,Sell
+2019-09-25,index,DAX,Buy,Srong Buy
+2019-09-25,index,NI225,Buy,Srong Buy
+2019-09-25,index,NIFTY,Buy,Srong Buy
+2019-09-25,index,SPX,Neutral,Buy
+2019-09-25,index,DJI,Neutral,Buy
+2019-09-25,index,TSX,Buy,Srong Buy
+2019-09-26,index,SPX,Neutral,Srong Buy
+2019-09-26,index,DJI,Buy,Srong Buy
+2019-09-26,index,DAX,Sell,Buy
+2019-09-26,index,IXIC,Neutral,Buy
+2019-09-26,index,NI225,Neutral,Srong Buy
+2019-09-26,index,VIX,Buy,Sell
+2019-09-26,index,TSX,Buy,Srong Buy
+2019-09-26,index,NIFTY,Buy,Srong Buy
+2019-09-26,stock,MSFT,Neutral,Srong Buy
+2019-09-26,stock,JPM,Neutral,Srong Buy
+2019-09-26,stock,BABA,Sell,Srong Buy
+2019-09-26,stock,AMZN,Sell,Srong Sell
+2019-09-26,stock,AAPL,Neutral,Srong Buy
+2019-09-26,stock,JNJ,Buy,Buy
+2019-09-26,stock,GOOG,Neutral,Srong Buy
+2019-09-26,stock,FB,Buy,Srong Sell
+2019-09-26,crypto,BTCUSD,Sell,Srong Sell
+2019-09-26,crypto,BNBUSD,Sell,Srong Sell
+2019-09-26,crypto,DASHUSD,Sell,Srong Sell
+2019-09-26,crypto,XRPUSD,Sell,Srong Sell
+2019-09-26,crypto,IOTAUSD,Sell,Sell
+2019-09-26,crypto,EOSUSD,Sell,Srong Sell
+2019-09-26,crypto,LTCUSD,Sell,Srong Sell
+2019-09-26,crypto,ETHUSD,Sell,Srong Sell
+2019-09-27,stock,BABA,Buy,Buy
+2019-09-27,stock,JPM,Neutral,Srong Buy
+2019-09-27,stock,FB,Sell,Srong Sell
+2019-09-27,stock,GOOG,Buy,Srong Buy
+2019-09-27,stock,AMZN,Sell,Srong Sell
+2019-09-27,stock,AAPL,Neutral,Srong Buy
+2019-09-27,stock,JNJ,Buy,Srong Sell
+2019-09-27,stock,MSFT,Buy,Srong Buy
+2019-09-27,index,VIX,Sell,Sell
+2019-09-27,index,SPX,Buy,Buy
+2019-09-27,index,IXIC,Neutral,Sell
+2019-09-27,index,NIFTY,Sell,Srong Buy
+2019-09-27,index,DAX,Sell,Srong Buy
+2019-09-27,index,TSX,Buy,Srong Buy
+2019-09-27,index,DJI,Buy,Srong Buy
+2019-09-27,index,NI225,Neutral,Srong Buy
+2019-09-27,crypto,LTCUSD,Neutral,Srong Sell
+2019-09-27,crypto,BTCUSD,Buy,Srong Sell
+2019-09-27,crypto,XRPUSD,Sell,Srong Sell
+2019-09-27,crypto,ETHUSD,Sell,Srong Sell
+2019-09-27,crypto,IOTAUSD,Sell,Sell
+2019-09-27,crypto,BNBUSD,Buy,Srong Sell
+2019-09-27,crypto,EOSUSD,Buy,Srong Sell
+2019-09-27,crypto,DASHUSD,Sell,Srong Sell
+2019-09-28,crypto,DASHUSD,Neutral,Srong Sell
+2019-09-28,crypto,BTCUSD,Neutral,Srong Sell
+2019-09-28,crypto,BNBUSD,Buy,Srong Sell
+2019-09-28,crypto,XRPUSD,Neutral,Srong Sell
+2019-09-28,crypto,ETHUSD,Neutral,Srong Sell
+2019-09-28,crypto,LTCUSD,Buy,Srong Sell
+2019-09-28,crypto,EOSUSD,Sell,Srong Sell
+2019-09-28,crypto,IOTAUSD,Sell,Sell
+2019-09-29,crypto,EOSUSD,Neutral,Srong Sell
+2019-09-29,crypto,BTCUSD,Buy,Srong Sell
+2019-09-29,crypto,BNBUSD,Buy,Srong Sell
+2019-09-29,crypto,IOTAUSD,Sell,Srong Sell
+2019-09-29,crypto,XRPUSD,Sell,Srong Sell
+2019-09-29,crypto,DASHUSD,Neutral,Srong Sell
+2019-09-29,crypto,LTCUSD,Neutral,Srong Sell
+2019-09-29,crypto,ETHUSD,Sell,Srong Sell
+2019-09-30,stock,AAPL,Sell,Srong Buy
+2019-09-30,stock,JNJ,Buy,Srong Sell
+2019-09-30,stock,BABA,Sell,Srong Sell
+2019-09-30,stock,MSFT,Buy,Neutral
+2019-09-30,stock,AMZN,Sell,Srong Sell
+2019-09-30,stock,GOOG,Neutral,Srong Buy
+2019-09-30,stock,FB,Sell,Srong Sell
+2019-09-30,stock,JPM,Neutral,Srong Buy
+2019-09-30,index,DJI,Neutral,Buy
+2019-09-30,index,NI225,Buy,Srong Buy
+2019-09-30,index,DAX,Sell,Srong Buy
+2019-09-30,index,NIFTY,Buy,Srong Buy
+2019-09-30,index,IXIC,Neutral,Srong Sell
+2019-09-30,index,VIX,Neutral,Srong Buy
+2019-09-30,index,TSX,Neutral,Srong Buy
+2019-09-30,index,SPX,Neutral,Buy
+2019-09-30,crypto,IOTAUSD,Sell,Srong Sell
+2019-09-30,crypto,ETHUSD,Sell,Srong Sell
+2019-09-30,crypto,XRPUSD,Sell,Srong Sell
+2019-09-30,crypto,LTCUSD,Buy,Srong Sell
+2019-09-30,crypto,BTCUSD,Buy,Srong Sell
+2019-09-30,crypto,EOSUSD,Sell,Srong Sell
+2019-09-30,crypto,BNBUSD,Sell,Srong Sell
+2019-09-30,crypto,DASHUSD,Sell,Srong Sell
+2019-10-01,index,DAX,Sell,Srong Buy
+2019-10-01,index,TSX,Buy,Buy
+2019-10-01,index,NIFTY,Neutral,Srong Buy
+2019-10-01,index,NI225,Buy,Buy
+2019-10-01,index,IXIC,Sell,Sell
+2019-10-01,index,SPX,Sell,Buy
+2019-10-01,index,DJI,Sell,Srong Buy
+2019-10-01,index,VIX,Buy,Buy
+2019-10-01,stock,AAPL,Sell,Srong Buy
+2019-10-01,stock,FB,Sell,Srong Sell
+2019-10-01,stock,JNJ,Sell,Srong Sell
+2019-10-01,stock,AMZN,Sell,Srong Sell
+2019-10-01,stock,JPM,Sell,Srong Buy
+2019-10-01,stock,GOOG,Sell,Buy
+2019-10-01,stock,MSFT,Buy,Srong Buy
+2019-10-01,stock,BABA,Sell,Srong Sell
+2019-10-01,crypto,DASHUSD,Sell,Srong Sell
+2019-10-01,crypto,XRPUSD,Sell,Srong Sell
+2019-10-01,crypto,EOSUSD,Sell,Srong Sell
+2019-10-01,crypto,LTCUSD,Neutral,Srong Sell
+2019-10-01,crypto,BNBUSD,Sell,Srong Sell
+2019-10-01,crypto,IOTAUSD,Buy,Srong Sell
+2019-10-01,crypto,BTCUSD,Sell,Srong Sell
+2019-10-01,crypto,ETHUSD,Sell,Srong Sell
+2019-10-02,stock,GOOG,Neutral,Sell
+2019-10-02,stock,JPM,Neutral,Buy
+2019-10-02,stock,AMZN,Neutral,Srong Sell
+2019-10-02,stock,JNJ,Sell,Sell
+2019-10-02,stock,AAPL,Buy,Srong Buy
+2019-10-02,stock,MSFT,Neutral,Sell
+2019-10-02,stock,BABA,Sell,Srong Sell
+2019-10-02,stock,FB,Sell,Srong Sell
+2019-10-02,crypto,DASHUSD,Sell,Srong Sell
+2019-10-02,crypto,XRPUSD,Neutral,Srong Sell
+2019-10-02,crypto,IOTAUSD,Neutral,Buy
+2019-10-02,crypto,EOSUSD,Neutral,Srong Sell
+2019-10-02,crypto,BNBUSD,Sell,Srong Sell
+2019-10-02,crypto,ETHUSD,Neutral,Srong Sell
+2019-10-02,crypto,LTCUSD,Sell,Srong Sell
+2019-10-02,crypto,BTCUSD,Sell,Srong Sell
+2019-10-02,index,NIFTY,Neutral,Srong Buy
+2019-10-02,index,DJI,Neutral,Sell
+2019-10-02,index,TSX,Sell,Sell
+2019-10-02,index,NI225,Neutral,Srong Buy
+2019-10-02,index,IXIC,Sell,Srong Sell
+2019-10-02,index,DAX,Neutral,Buy
+2019-10-02,index,VIX,Neutral,Srong Buy
+2019-10-02,index,SPX,Neutral,Sell
+2019-10-03,index,DAX,Neutral,Srong Sell
+2019-10-03,index,NI225,Neutral,Srong Buy
+2019-10-03,index,TSX,Buy,Srong Sell
+2019-10-03,index,VIX,Neutral,Srong Buy
+2019-10-03,index,DJI,Buy,Srong Sell
+2019-10-03,index,NIFTY,Neutral,Srong Buy
+2019-10-03,index,IXIC,Neutral,Srong Sell
+2019-10-03,index,SPX,Buy,Srong Sell
+2019-10-03,stock,GOOG,Buy,Srong Sell
+2019-10-03,stock,FB,Buy,Srong Sell
+2019-10-03,stock,JNJ,Buy,Buy
+2019-10-03,stock,AMZN,Buy,Srong Sell
+2019-10-03,stock,BABA,Buy,Srong Sell
+2019-10-03,stock,MSFT,Neutral,Srong Sell
+2019-10-03,stock,AAPL,Neutral,Buy
+2019-10-03,stock,JPM,Neutral,Sell
+2019-10-03,crypto,BNBUSD,Sell,Srong Sell
+2019-10-03,crypto,XRPUSD,Sell,Srong Sell
+2019-10-03,crypto,DASHUSD,Sell,Srong Sell
+2019-10-03,crypto,ETHUSD,Sell,Srong Sell
+2019-10-03,crypto,LTCUSD,Sell,Srong Sell
+2019-10-03,crypto,IOTAUSD,Buy,Buy
+2019-10-03,crypto,BTCUSD,Buy,Srong Sell
+2019-10-03,crypto,EOSUSD,Sell,Srong Sell
+2019-10-04,stock,JNJ,Buy,Buy
+2019-10-04,stock,GOOG,Neutral,Sell
+2019-10-04,stock,JPM,Buy,Srong Sell
+2019-10-04,stock,MSFT,Sell,Sell
+2019-10-04,stock,BABA,Sell,Srong Sell
+2019-10-04,stock,FB,Sell,Srong Sell
+2019-10-04,stock,AAPL,Sell,Srong Buy
+2019-10-04,stock,AMZN,Sell,Srong Sell
+2019-10-04,crypto,ETHUSD,Sell,Srong Sell
+2019-10-04,crypto,EOSUSD,Sell,Srong Sell
+2019-10-04,crypto,DASHUSD,Sell,Srong Sell
+2019-10-04,crypto,XRPUSD,Sell,Srong Sell
+2019-10-04,crypto,BTCUSD,Sell,Srong Sell
+2019-10-04,crypto,BNBUSD,Sell,Srong Sell
+2019-10-04,crypto,LTCUSD,Sell,Srong Sell
+2019-10-04,crypto,IOTAUSD,Buy,Neutral
+2019-10-04,index,NIFTY,Buy,Buy
+2019-10-04,index,DJI,Sell,Srong Sell
+2019-10-04,index,SPX,Sell,Sell
+2019-10-04,index,DAX,Neutral,Srong Sell
+2019-10-04,index,NI225,Sell,Sell
+2019-10-04,index,VIX,Buy,Srong Buy
+2019-10-04,index,TSX,Buy,Srong Sell
+2019-10-04,index,IXIC,Sell,Sell
+2019-10-05,crypto,LTCUSD,Sell,Srong Sell
+2019-10-05,crypto,IOTAUSD,Sell,Neutral
+2019-10-05,crypto,BNBUSD,Buy,Srong Sell
+2019-10-05,crypto,XRPUSD,Sell,Srong Sell
+2019-10-05,crypto,DASHUSD,Sell,Srong Sell
+2019-10-05,crypto,BTCUSD,Sell,Srong Sell
+2019-10-05,crypto,ETHUSD,Sell,Srong Sell
+2019-10-05,crypto,EOSUSD,Sell,Srong Sell
+2019-10-06,crypto,BTCUSD,Sell,Srong Sell
+2019-10-06,crypto,EOSUSD,Neutral,Srong Sell
+2019-10-06,crypto,IOTAUSD,Neutral,Buy
+2019-10-06,crypto,XRPUSD,Sell,Srong Sell
+2019-10-06,crypto,ETHUSD,Neutral,Srong Sell
+2019-10-06,crypto,BNBUSD,Buy,Srong Sell
+2019-10-06,crypto,DASHUSD,Buy,Srong Sell
+2019-10-06,crypto,LTCUSD,Neutral,Srong Sell
+2019-10-07,crypto,BNBUSD,Buy,Srong Sell
+2019-10-07,crypto,LTCUSD,Sell,Srong Sell
+2019-10-07,crypto,BTCUSD,Sell,Srong Sell
+2019-10-07,crypto,IOTAUSD,Sell,Srong Sell
+2019-10-07,crypto,DASHUSD,Sell,Srong Sell
+2019-10-07,crypto,EOSUSD,Sell,Srong Sell
+2019-10-07,crypto,ETHUSD,Sell,Srong Sell
+2019-10-07,crypto,XRPUSD,Sell,Srong Sell
+2019-10-07,stock,GOOG,Sell,Buy
+2019-10-07,stock,MSFT,Sell,Srong Buy
+2019-10-07,stock,JNJ,Buy,Srong Buy
+2019-10-07,stock,AMZN,Sell,Srong Sell
+2019-10-07,stock,BABA,Sell,Sell
+2019-10-07,stock,JPM,Neutral,Buy
+2019-10-07,stock,FB,Sell,Sell
+2019-10-07,stock,AAPL,Sell,Srong Buy
+2019-10-07,index,NIFTY,Buy,Srong Sell
+2019-10-07,index,DJI,Sell,Sell
+2019-10-07,index,NI225,Buy,Buy
+2019-10-07,index,VIX,Buy,Buy
+2019-10-07,index,IXIC,Sell,Buy
+2019-10-07,index,TSX,Sell,Sell
+2019-10-07,index,DAX,Sell,Srong Sell
+2019-10-07,index,SPX,Sell,Buy
+2019-10-08,index,VIX,Buy,Srong Buy
+2019-10-08,index,IXIC,Neutral,Sell
+2019-10-08,index,DAX,Neutral,Sell
+2019-10-08,index,NIFTY,Neutral,Srong Sell
+2019-10-08,index,NI225,Neutral,Sell
+2019-10-08,index,SPX,Sell,Sell
+2019-10-08,index,TSX,Sell,Sell
+2019-10-08,index,DJI,Sell,Sell
+2019-10-08,stock,GOOG,Neutral,Neutral
+2019-10-08,stock,AAPL,Buy,Srong Buy
+2019-10-08,stock,MSFT,Neutral,Sell
+2019-10-08,stock,JPM,Buy,Neutral
+2019-10-08,stock,JNJ,Buy,Buy
+2019-10-08,stock,BABA,Sell,Srong Sell
+2019-10-08,stock,FB,Sell,Sell
+2019-10-08,stock,AMZN,Sell,Srong Sell
+2019-10-08,crypto,LTCUSD,Neutral,Srong Sell
+2019-10-08,crypto,IOTAUSD,Neutral,Buy
+2019-10-08,crypto,ETHUSD,Sell,Srong Sell
+2019-10-08,crypto,DASHUSD,Neutral,Srong Sell
+2019-10-08,crypto,XRPUSD,Buy,Buy
+2019-10-08,crypto,EOSUSD,Neutral,Sell
+2019-10-08,crypto,BNBUSD,Neutral,Srong Sell
+2019-10-08,crypto,BTCUSD,Sell,Srong Sell
+2019-10-09,crypto,XRPUSD,Buy,Buy
+2019-10-09,crypto,BTCUSD,Buy,Srong Sell
+2019-10-09,crypto,EOSUSD,Buy,Sell
+2019-10-09,crypto,IOTAUSD,Buy,Neutral
+2019-10-09,crypto,ETHUSD,Neutral,Srong Sell
+2019-10-09,crypto,DASHUSD,Buy,Srong Sell
+2019-10-09,crypto,BNBUSD,Buy,Srong Sell
+2019-10-09,crypto,LTCUSD,Buy,Srong Sell
+2019-10-09,stock,FB,Sell,Srong Sell
+2019-10-09,stock,JNJ,Buy,Buy
+2019-10-09,stock,JPM,Sell,Srong Sell
+2019-10-09,stock,MSFT,Sell,Sell
+2019-10-09,stock,AMZN,Sell,Srong Sell
+2019-10-09,stock,AAPL,Buy,Srong Buy
+2019-10-09,stock,BABA,Sell,Srong Sell
+2019-10-09,stock,GOOG,Sell,Sell
+2019-10-09,index,NI225,Buy,Buy
+2019-10-09,index,TSX,Sell,Srong Sell
+2019-10-09,index,NIFTY,Neutral,Srong Sell
+2019-10-09,index,IXIC,Sell,Srong Sell
+2019-10-09,index,VIX,Buy,Srong Buy
+2019-10-09,index,SPX,Sell,Srong Sell
+2019-10-09,index,DJI,Sell,Srong Sell
+2019-10-09,index,DAX,Sell,Srong Sell
+2019-10-10,index,TSX,Sell,Srong Sell
+2019-10-10,index,SPX,Sell,Sell
+2019-10-10,index,VIX,Buy,Srong Buy
+2019-10-10,index,IXIC,Neutral,Sell
+2019-10-10,index,DJI,Sell,Sell
+2019-10-10,index,NIFTY,Neutral,Srong Buy
+2019-10-10,index,DAX,Sell,Sell
+2019-10-10,index,NI225,Sell,Buy
+2019-10-10,stock,FB,Sell,Sell
+2019-10-10,stock,GOOG,Buy,Neutral
+2019-10-10,stock,MSFT,Sell,Srong Buy
+2019-10-10,stock,AMZN,Neutral,Srong Sell
+2019-10-10,stock,BABA,Buy,Srong Sell
+2019-10-10,stock,AAPL,Buy,Srong Buy
+2019-10-10,stock,JPM,Sell,Sell
+2019-10-10,stock,JNJ,Buy,Srong Sell
+2019-10-10,crypto,ETHUSD,Buy,Buy
+2019-10-10,crypto,IOTAUSD,Buy,Buy
+2019-10-10,crypto,XRPUSD,Buy,Buy
+2019-10-10,crypto,BTCUSD,Neutral,Sell
+2019-10-10,crypto,EOSUSD,Neutral,Sell
+2019-10-10,crypto,DASHUSD,Neutral,Sell
+2019-10-10,crypto,BNBUSD,Neutral,Sell
+2019-10-10,crypto,LTCUSD,Neutral,Sell
+2019-10-11,crypto,BNBUSD,Buy,Sell
+2019-10-11,crypto,ETHUSD,Buy,Buy
+2019-10-11,crypto,DASHUSD,Buy,Srong Sell
+2019-10-11,crypto,XRPUSD,Buy,Buy
+2019-10-11,crypto,LTCUSD,Buy,Srong Sell
+2019-10-11,crypto,EOSUSD,Buy,Sell
+2019-10-11,crypto,BTCUSD,Neutral,Sell
+2019-10-11,crypto,IOTAUSD,Buy,Buy
+2019-10-11,index,VIX,Buy,Buy
+2019-10-11,index,DJI,Sell,Buy
+2019-10-11,index,IXIC,Sell,Sell
+2019-10-11,index,NIFTY,Buy,Buy
+2019-10-11,index,SPX,Sell,Buy
+2019-10-11,index,NI225,Sell,Buy
+2019-10-11,index,DAX,Sell,Buy
+2019-10-11,index,TSX,Sell,Sell
+2019-10-11,stock,AMZN,Sell,Srong Sell
+2019-10-11,stock,GOOG,Sell,Buy
+2019-10-11,stock,AAPL,Buy,Srong Buy
+2019-10-11,stock,JPM,Sell,Neutral
+2019-10-11,stock,MSFT,Sell,Srong Buy
+2019-10-11,stock,JNJ,Sell,Srong Sell
+2019-10-11,stock,FB,Neutral,Sell
+2019-10-11,stock,BABA,Sell,Srong Sell
+2019-10-12,crypto,ETHUSD,Buy,Srong Sell
+2019-10-12,crypto,IOTAUSD,Neutral,Sell
+2019-10-12,crypto,DASHUSD,Buy,Srong Sell
+2019-10-12,crypto,BNBUSD,Buy,Sell
+2019-10-12,crypto,EOSUSD,Buy,Srong Sell
+2019-10-12,crypto,XRPUSD,Neutral,Buy
+2019-10-12,crypto,BTCUSD,Buy,Srong Sell
+2019-10-12,crypto,LTCUSD,Buy,Srong Sell
+2019-10-13,crypto,ETHUSD,Buy,Srong Sell
+2019-10-13,crypto,BNBUSD,Sell,Sell
+2019-10-13,crypto,EOSUSD,Buy,Srong Sell
+2019-10-13,crypto,XRPUSD,Buy,Buy
+2019-10-13,crypto,DASHUSD,Sell,Srong Sell
+2019-10-13,crypto,BTCUSD,Sell,Srong Sell
+2019-10-13,crypto,IOTAUSD,Sell,Srong Sell
+2019-10-13,crypto,LTCUSD,Buy,Srong Sell
+2019-10-14,crypto,LTCUSD,Neutral,Srong Sell
+2019-10-14,crypto,DASHUSD,Sell,Srong Sell
+2019-10-14,crypto,EOSUSD,Neutral,Srong Sell
+2019-10-14,crypto,ETHUSD,Neutral,Srong Sell
+2019-10-14,crypto,XRPUSD,Neutral,Buy
+2019-10-14,crypto,BNBUSD,Buy,Buy
+2019-10-14,crypto,BTCUSD,Neutral,Srong Sell
+2019-10-14,crypto,IOTAUSD,Sell,Buy
+2019-10-14,stock,JPM,Sell,Srong Buy
+2019-10-14,stock,BABA,Sell,Srong Buy
+2019-10-14,stock,AAPL,Neutral,Srong Buy
+2019-10-14,stock,JNJ,Sell,Buy
+2019-10-14,stock,MSFT,Buy,Srong Buy
+2019-10-14,stock,AMZN,Sell,Srong Sell
+2019-10-14,stock,FB,Neutral,Srong Buy
+2019-10-14,stock,GOOG,Sell,Srong Buy
+2019-10-14,index,DAX,Sell,Srong Buy
+2019-10-14,index,IXIC,Sell,Srong Buy
+2019-10-14,index,DJI,Sell,Srong Buy
+2019-10-14,index,SPX,Sell,Srong Buy
+2019-10-14,index,VIX,Buy,Srong Sell
+2019-10-14,index,NI225,Sell,Srong Buy
+2019-10-14,index,TSX,Sell,Sell
+2019-10-14,index,NIFTY,Sell,Srong Buy
+2019-10-15,stock,JNJ,Sell,Sell
+2019-10-15,stock,GOOG,Sell,Srong Buy
+2019-10-15,stock,JPM,Sell,Srong Buy
+2019-10-15,stock,BABA,Neutral,Srong Buy
+2019-10-15,stock,MSFT,Buy,Srong Buy
+2019-10-15,stock,AAPL,Buy,Srong Buy
+2019-10-15,stock,FB,Buy,Buy
+2019-10-15,stock,AMZN,Neutral,Srong Sell
+2019-10-15,crypto,ETHUSD,Sell,Buy
+2019-10-15,crypto,IOTAUSD,Buy,Srong Buy
+2019-10-15,crypto,BTCUSD,Sell,Sell
+2019-10-15,crypto,BNBUSD,Sell,Buy
+2019-10-15,crypto,LTCUSD,Sell,Srong Sell
+2019-10-15,crypto,DASHUSD,Buy,Srong Sell
+2019-10-15,crypto,XRPUSD,Buy,Srong Buy
+2019-10-15,crypto,EOSUSD,Buy,Sell
+2019-10-15,index,DJI,Sell,Srong Buy
+2019-10-15,index,IXIC,Buy,Srong Buy
+2019-10-15,index,NIFTY,Buy,Srong Buy
+2019-10-15,index,SPX,Neutral,Srong Buy
+2019-10-15,index,VIX,Neutral,Srong Sell
+2019-10-15,index,NI225,Sell,Srong Buy
+2019-10-15,index,TSX,Sell,Sell
+2019-10-15,index,DAX,Buy,Srong Buy
+2019-10-16,index,TSX,Sell,Sell
+2019-10-16,index,DAX,Neutral,Srong Buy
+2019-10-16,index,SPX,Neutral,Srong Buy
+2019-10-16,index,DJI,Neutral,Srong Buy
+2019-10-16,index,NI225,Neutral,Srong Buy
+2019-10-16,index,VIX,Sell,Srong Sell
+2019-10-16,index,NIFTY,Sell,Srong Buy
+2019-10-16,index,IXIC,Neutral,Srong Buy
+2019-10-16,stock,GOOG,Buy,Srong Buy
+2019-10-16,stock,FB,Neutral,Srong Buy
+2019-10-16,stock,BABA,Neutral,Srong Buy
+2019-10-16,stock,MSFT,Buy,Srong Buy
+2019-10-16,stock,JNJ,Buy,Srong Buy
+2019-10-16,stock,AAPL,Sell,Srong Buy
+2019-10-16,stock,JPM,Buy,Srong Buy
+2019-10-16,stock,AMZN,Neutral,Neutral
+2019-10-16,crypto,BTCUSD,Buy,Srong Sell
+2019-10-16,crypto,XRPUSD,Buy,Buy
+2019-10-16,crypto,EOSUSD,Neutral,Srong Sell
+2019-10-16,crypto,IOTAUSD,Buy,Buy
+2019-10-16,crypto,ETHUSD,Buy,Srong Sell
+2019-10-16,crypto,BNBUSD,Buy,Neutral
+2019-10-16,crypto,LTCUSD,Buy,Srong Sell
+2019-10-16,crypto,DASHUSD,Buy,Sell
+2019-10-17,crypto,EOSUSD,Sell,Srong Sell
+2019-10-17,crypto,DASHUSD,Neutral,Srong Sell
+2019-10-17,crypto,LTCUSD,Sell,Srong Sell
+2019-10-17,crypto,BTCUSD,Sell,Srong Sell
+2019-10-17,crypto,ETHUSD,Sell,Srong Sell
+2019-10-17,crypto,IOTAUSD,Sell,Srong Sell
+2019-10-17,crypto,XRPUSD,Buy,Buy
+2019-10-17,crypto,BNBUSD,Buy,Sell
+2019-10-17,stock,FB,Buy,Srong Buy
+2019-10-17,stock,GOOG,Sell,Srong Buy
+2019-10-17,stock,JNJ,Buy,Srong Buy
+2019-10-17,stock,MSFT,Sell,Srong Buy
+2019-10-17,stock,JPM,Sell,Srong Buy
+2019-10-17,stock,AMZN,Neutral,Buy
+2019-10-17,stock,BABA,Neutral,Srong Buy
+2019-10-17,stock,AAPL,Sell,Srong Buy
+2019-10-17,index,IXIC,Neutral,Srong Buy
+2019-10-17,index,VIX,Buy,Srong Sell
+2019-10-17,index,TSX,Sell,Sell
+2019-10-17,index,SPX,Neutral,Srong Buy
+2019-10-17,index,DAX,Neutral,Srong Buy
+2019-10-17,index,DJI,Neutral,Srong Buy
+2019-10-17,index,NIFTY,Buy,Srong Buy
+2019-10-17,index,NI225,Neutral,Srong Buy
+2019-10-18,crypto,BTCUSD,Buy,Srong Sell
+2019-10-18,crypto,EOSUSD,Buy,Srong Sell
+2019-10-18,crypto,BNBUSD,Buy,Neutral
+2019-10-18,crypto,DASHUSD,Buy,Srong Sell
+2019-10-18,crypto,XRPUSD,Buy,Srong Buy
+2019-10-18,crypto,ETHUSD,Sell,Srong Sell
+2019-10-18,crypto,IOTAUSD,Buy,Buy
+2019-10-18,crypto,LTCUSD,Buy,Srong Sell
+2019-10-18,index,DJI,Buy,Srong Buy
+2019-10-18,index,TSX,Sell,Sell
+2019-10-18,index,SPX,Buy,Srong Buy
+2019-10-18,index,VIX,Sell,Srong Sell
+2019-10-18,index,NIFTY,Buy,Srong Buy
+2019-10-18,index,DAX,Sell,Srong Buy
+2019-10-18,index,IXIC,Buy,Srong Buy
+2019-10-18,index,NI225,Sell,Srong Buy
+2019-10-18,stock,JPM,Buy,Srong Buy
+2019-10-18,stock,JNJ,Neutral,Srong Buy
+2019-10-18,stock,BABA,Buy,Srong Buy
+2019-10-18,stock,FB,Buy,Srong Buy
+2019-10-18,stock,AMZN,Buy,Srong Buy
+2019-10-18,stock,GOOG,Buy,Srong Buy
+2019-10-18,stock,AAPL,Buy,Srong Buy
+2019-10-18,stock,MSFT,Buy,Srong Buy
+2019-10-19,crypto,EOSUSD,Buy,Srong Sell
+2019-10-19,crypto,XRPUSD,Buy,Srong Buy
+2019-10-19,crypto,IOTAUSD,Sell,Srong Sell
+2019-10-19,crypto,DASHUSD,Buy,Srong Sell
+2019-10-19,crypto,LTCUSD,Buy,Srong Sell
+2019-10-19,crypto,BTCUSD,Buy,Srong Sell
+2019-10-19,crypto,BNBUSD,Buy,Neutral
+2019-10-19,crypto,ETHUSD,Sell,Srong Sell
+2019-10-20,crypto,EOSUSD,Buy,Srong Sell
+2019-10-20,crypto,XRPUSD,Buy,Srong Buy
+2019-10-20,crypto,BTCUSD,Buy,Srong Sell
+2019-10-20,crypto,LTCUSD,Buy,Srong Sell
+2019-10-20,crypto,BNBUSD,Buy,Neutral
+2019-10-20,crypto,DASHUSD,Buy,Srong Sell
+2019-10-20,crypto,ETHUSD,Sell,Srong Sell
+2019-10-20,crypto,IOTAUSD,Sell,Srong Sell
+2019-10-21,index,TSX,Neutral,Srong Sell
+2019-10-21,index,DJI,Neutral,Buy
+2019-10-21,index,NI225,Neutral,Srong Buy
+2019-10-21,index,SPX,Neutral,Srong Buy
+2019-10-21,index,NIFTY,Buy,Srong Buy
+2019-10-21,index,IXIC,Buy,Srong Buy
+2019-10-21,index,VIX,Sell,Srong Sell
+2019-10-21,index,DAX,Neutral,Srong Buy
+2019-10-21,stock,AAPL,Buy,Srong Buy
+2019-10-21,stock,AMZN,Sell,Sell
+2019-10-21,stock,MSFT,Buy,Sell
+2019-10-21,stock,FB,Buy,Srong Buy
+2019-10-21,stock,GOOG,Buy,Srong Buy
+2019-10-21,stock,BABA,Buy,Srong Sell
+2019-10-21,stock,JNJ,Buy,Srong Sell
+2019-10-21,stock,JPM,Buy,Srong Buy
+2019-10-21,crypto,BTCUSD,Neutral,Srong Sell
+2019-10-21,crypto,IOTAUSD,Sell,Srong Sell
+2019-10-21,crypto,LTCUSD,Neutral,Srong Sell
+2019-10-21,crypto,ETHUSD,Sell,Srong Sell
+2019-10-21,crypto,XRPUSD,Sell,Srong Buy
+2019-10-21,crypto,BNBUSD,Buy,Neutral
+2019-10-21,crypto,DASHUSD,Buy,Srong Sell
+2019-10-21,crypto,EOSUSD,Neutral,Srong Sell
+2019-10-22,stock,MSFT,Buy,Buy
+2019-10-22,stock,AAPL,Sell,Srong Buy
+2019-10-22,stock,BABA,Buy,Srong Buy
+2019-10-22,stock,JNJ,Neutral,Srong Sell
+2019-10-22,stock,GOOG,Sell,Srong Buy
+2019-10-22,stock,JPM,Buy,Srong Buy
+2019-10-22,stock,AMZN,Buy,Buy
+2019-10-22,stock,FB,Buy,Srong Buy
+2019-10-22,index,NIFTY,Buy,Srong Buy
+2019-10-22,index,NI225,Neutral,Srong Buy
+2019-10-22,index,DAX,Buy,Srong Buy
+2019-10-22,index,TSX,Sell,Sell
+2019-10-22,index,IXIC,Buy,Srong Buy
+2019-10-22,index,VIX,Sell,Srong Sell
+2019-10-22,index,DJI,Neutral,Srong Buy
+2019-10-22,index,SPX,Buy,Srong Buy
+2019-10-22,crypto,BTCUSD,Neutral,Sell
+2019-10-22,crypto,ETHUSD,Sell,Srong Sell
+2019-10-22,crypto,BNBUSD,Neutral,Neutral
+2019-10-22,crypto,EOSUSD,Sell,Srong Sell
+2019-10-22,crypto,XRPUSD,Buy,Srong Buy
+2019-10-22,crypto,DASHUSD,Sell,Srong Sell
+2019-10-22,crypto,LTCUSD,Sell,Srong Sell
+2019-10-22,crypto,IOTAUSD,Sell,Srong Sell
+2019-10-23,stock,AAPL,Sell,Srong Buy
+2019-10-23,stock,JNJ,Sell,Srong Sell
+2019-10-23,stock,AMZN,Buy,Sell
+2019-10-23,stock,MSFT,Neutral,Srong Sell
+2019-10-23,stock,FB,Buy,Sell
+2019-10-23,stock,BABA,Neutral,Srong Sell
+2019-10-23,stock,GOOG,Buy,Srong Buy
+2019-10-23,stock,JPM,Sell,Srong Buy
+2019-10-23,crypto,XRPUSD,Buy,Srong Buy
+2019-10-23,crypto,DASHUSD,Buy,Srong Sell
+2019-10-23,crypto,BNBUSD,Buy,Sell
+2019-10-23,crypto,BTCUSD,Buy,Srong Sell
+2019-10-23,crypto,ETHUSD,Sell,Srong Sell
+2019-10-23,crypto,EOSUSD,Neutral,Srong Sell
+2019-10-23,crypto,LTCUSD,Buy,Srong Sell
+2019-10-23,crypto,IOTAUSD,Sell,Srong Sell
+2019-10-23,index,DJI,Neutral,Buy
+2019-10-23,index,NIFTY,Buy,Srong Buy
+2019-10-23,index,TSX,Sell,Srong Sell
+2019-10-23,index,VIX,Buy,Srong Sell
+2019-10-23,index,IXIC,Neutral,Srong Buy
+2019-10-23,index,DAX,Neutral,Srong Buy
+2019-10-23,index,NI225,Neutral,Srong Buy
+2019-10-23,index,SPX,Sell,Srong Buy
+2019-10-24,stock,MSFT,Neutral,Sell
+2019-10-24,stock,GOOG,Neutral,Srong Buy
+2019-10-24,stock,JNJ,Sell,Srong Sell
+2019-10-24,stock,AAPL,Neutral,Srong Buy
+2019-10-24,stock,BABA,Buy,Srong Sell
+2019-10-24,stock,FB,Buy,Srong Buy
+2019-10-24,stock,JPM,Buy,Srong Buy
+2019-10-24,stock,AMZN,Buy,Sell
+2019-10-24,crypto,DASHUSD,Buy,Srong Sell
+2019-10-24,crypto,LTCUSD,Buy,Srong Sell
+2019-10-24,crypto,BNBUSD,Neutral,Srong Sell
+2019-10-24,crypto,XRPUSD,Sell,Srong Sell
+2019-10-24,crypto,ETHUSD,Neutral,Srong Sell
+2019-10-24,crypto,IOTAUSD,Sell,Srong Sell
+2019-10-24,crypto,EOSUSD,Sell,Srong Sell
+2019-10-24,crypto,BTCUSD,Buy,Srong Sell
+2019-10-24,index,IXIC,Buy,Srong Buy
+2019-10-24,index,SPX,Buy,Srong Buy
+2019-10-24,index,NIFTY,Sell,Srong Buy
+2019-10-24,index,DJI,Buy,Srong Buy
+2019-10-24,index,DAX,Buy,Srong Buy
+2019-10-24,index,NI225,Sell,Srong Buy
+2019-10-24,index,TSX,Sell,Srong Sell
+2019-10-24,index,VIX,Sell,Srong Sell
+2019-10-25,index,DJI,Buy,Srong Buy
+2019-10-25,index,TSX,Sell,Srong Sell
+2019-10-25,index,NIFTY,Buy,Srong Buy
+2019-10-25,index,SPX,Buy,Srong Buy
+2019-10-25,index,VIX,Sell,Srong Sell
+2019-10-25,index,NI225,Neutral,Srong Buy
+2019-10-25,index,DAX,Neutral,Srong Buy
+2019-10-25,index,IXIC,Neutral,Srong Buy
+2019-10-25,stock,JPM,Buy,Srong Buy
+2019-10-25,stock,AAPL,Sell,Srong Buy
+2019-10-25,stock,GOOG,Buy,Srong Buy
+2019-10-25,stock,BABA,Neutral,Srong Buy
+2019-10-25,stock,AMZN,Neutral,Buy
+2019-10-25,stock,MSFT,Sell,Srong Buy
+2019-10-25,stock,FB,Buy,Srong Buy
+2019-10-25,stock,JNJ,Neutral,Srong Sell
+2019-10-25,crypto,BTCUSD,Neutral,Srong Sell
+2019-10-25,crypto,ETHUSD,Neutral,Srong Sell
+2019-10-25,crypto,DASHUSD,Buy,Srong Sell
+2019-10-25,crypto,LTCUSD,Neutral,Srong Sell
+2019-10-25,crypto,BNBUSD,Buy,Srong Sell
+2019-10-25,crypto,EOSUSD,Buy,Srong Sell
+2019-10-25,crypto,IOTAUSD,Neutral,Srong Sell
+2019-10-25,crypto,XRPUSD,Neutral,Srong Sell
+2019-10-26,crypto,IOTAUSD,Sell,Buy
+2019-10-26,crypto,DASHUSD,Neutral,Srong Sell
+2019-10-26,crypto,BTCUSD,Buy,Buy
+2019-10-26,crypto,XRPUSD,Buy,Srong Buy
+2019-10-26,crypto,EOSUSD,Buy,Buy
+2019-10-26,crypto,BNBUSD,Buy,Buy
+2019-10-26,crypto,LTCUSD,Buy,Buy
+2019-10-26,crypto,ETHUSD,Sell,Buy
+2019-10-27,crypto,LTCUSD,Neutral,Neutral
+2019-10-27,crypto,BNBUSD,Buy,Buy
+2019-10-27,crypto,DASHUSD,Neutral,Neutral
+2019-10-27,crypto,IOTAUSD,Sell,Sell
+2019-10-27,crypto,XRPUSD,Buy,Srong Buy
+2019-10-27,crypto,BTCUSD,Neutral,Srong Buy
+2019-10-27,crypto,EOSUSD,Buy,Buy
+2019-10-27,crypto,ETHUSD,Neutral,Buy
+2019-10-28,index,NIFTY,Buy,Srong Buy
+2019-10-28,index,DAX,Buy,Srong Buy
+2019-10-28,index,SPX,Buy,Srong Buy
+2019-10-28,index,NI225,Sell,Srong Buy
+2019-10-28,index,TSX,Sell,Sell
+2019-10-28,index,IXIC,Buy,Srong Buy
+2019-10-28,index,VIX,Sell,Srong Sell
+2019-10-28,index,DJI,Buy,Srong Buy
+2019-10-28,stock,MSFT,Buy,Srong Buy
+2019-10-28,stock,FB,Buy,Srong Buy
+2019-10-28,stock,GOOG,Buy,Srong Buy
+2019-10-28,stock,JNJ,Neutral,Srong Sell
+2019-10-28,stock,AMZN,Neutral,Srong Sell
+2019-10-28,stock,JPM,Neutral,Srong Buy
+2019-10-28,stock,AAPL,Buy,Srong Buy
+2019-10-28,stock,BABA,Buy,Srong Buy
+2019-10-28,crypto,BTCUSD,Neutral,Srong Buy
+2019-10-28,crypto,BNBUSD,Buy,Buy
+2019-10-28,crypto,IOTAUSD,Buy,Srong Buy
+2019-10-28,crypto,ETHUSD,Buy,Buy
+2019-10-28,crypto,XRPUSD,Buy,Srong Buy
+2019-10-28,crypto,EOSUSD,Buy,Buy
+2019-10-28,crypto,LTCUSD,Sell,Buy
+2019-10-28,crypto,DASHUSD,Sell,Buy
+2019-10-29,crypto,XRPUSD,Buy,Srong Buy
+2019-10-29,crypto,LTCUSD,Sell,Neutral
+2019-10-29,crypto,ETHUSD,Buy,Buy
+2019-10-29,crypto,IOTAUSD,Buy,Srong Buy
+2019-10-29,crypto,DASHUSD,Buy,Neutral
+2019-10-29,crypto,EOSUSD,Neutral,Buy
+2019-10-29,crypto,BTCUSD,Neutral,Srong Buy
+2019-10-29,crypto,BNBUSD,Buy,Buy
+2019-10-29,stock,FB,Neutral,Srong Buy
+2019-10-29,stock,MSFT,Buy,Srong Buy
+2019-10-29,stock,BABA,Neutral,Srong Buy
+2019-10-29,stock,JPM,Sell,Srong Buy
+2019-10-29,stock,AMZN,Sell,Buy
+2019-10-29,stock,JNJ,Sell,Srong Sell
+2019-10-29,stock,GOOG,Sell,Srong Buy
+2019-10-29,stock,AAPL,Neutral,Srong Buy
+2019-10-29,index,NIFTY,Buy,Srong Buy
+2019-10-29,index,TSX,Neutral,Srong Sell
+2019-10-29,index,SPX,Buy,Srong Buy
+2019-10-29,index,IXIC,Neutral,Srong Buy
+2019-10-29,index,NI225,Sell,Srong Buy
+2019-10-29,index,VIX,Sell,Srong Sell
+2019-10-29,index,DJI,Buy,Srong Buy
+2019-10-29,index,DAX,Sell,Srong Buy
+2019-10-30,crypto,BNBUSD,Buy,Buy
+2019-10-30,crypto,XRPUSD,Buy,Srong Buy
+2019-10-30,crypto,DASHUSD,Neutral,Neutral
+2019-10-30,crypto,EOSUSD,Buy,Buy
+2019-10-30,crypto,IOTAUSD,Buy,Srong Buy
+2019-10-30,crypto,BTCUSD,Neutral,Srong Buy
+2019-10-30,crypto,LTCUSD,Neutral,Neutral
+2019-10-30,crypto,ETHUSD,Buy,Srong Buy
+2019-10-30,index,SPX,Sell,Srong Buy
+2019-10-30,index,VIX,Sell,Srong Sell
+2019-10-30,index,DJI,Buy,Srong Buy
+2019-10-30,index,IXIC,Sell,Srong Buy
+2019-10-30,index,DAX,Buy,Srong Buy
+2019-10-30,index,NIFTY,Neutral,Srong Buy
+2019-10-30,index,NI225,Sell,Srong Buy
+2019-10-30,index,TSX,Sell,Buy
+2019-10-30,stock,JNJ,Buy,Srong Sell
+2019-10-30,stock,FB,Buy,Srong Buy
+2019-10-30,stock,BABA,Buy,Srong Buy
+2019-10-30,stock,AMZN,Neutral,Srong Sell
+2019-10-30,stock,MSFT,Buy,Srong Buy
+2019-10-30,stock,JPM,Buy,Srong Buy
+2019-10-30,stock,GOOG,Buy,Srong Buy
+2019-10-30,stock,AAPL,Buy,Srong Buy
+2019-10-31,stock,JPM,Buy,Srong Buy
+2019-10-31,stock,FB,Buy,Srong Buy
+2019-10-31,stock,JNJ,Sell,Srong Buy
+2019-10-31,stock,AMZN,Neutral,Buy
+2019-10-31,stock,BABA,Buy,Srong Buy
+2019-10-31,stock,GOOG,Buy,Srong Buy
+2019-10-31,stock,AAPL,Neutral,Srong Buy
+2019-10-31,stock,MSFT,Buy,Srong Buy
+2019-10-31,crypto,ETHUSD,Buy,Buy
+2019-10-31,crypto,EOSUSD,Buy,Buy
+2019-10-31,crypto,BTCUSD,Buy,Srong Buy
+2019-10-31,crypto,LTCUSD,Buy,Neutral
+2019-10-31,crypto,DASHUSD,Buy,Neutral
+2019-10-31,crypto,XRPUSD,Buy,Srong Buy
+2019-10-31,crypto,BNBUSD,Buy,Buy
+2019-10-31,crypto,IOTAUSD,Buy,Srong Buy
+2019-10-31,index,SPX,Buy,Srong Buy
+2019-10-31,index,VIX,Sell,Srong Sell
+2019-10-31,index,NIFTY,Buy,Srong Buy
+2019-10-31,index,DJI,Buy,Srong Buy
+2019-10-31,index,TSX,Buy,Srong Buy
+2019-10-31,index,IXIC,Buy,Srong Buy
+2019-10-31,index,NI225,Buy,Srong Buy
+2019-10-31,index,DAX,Buy,Srong Buy
+2019-11-01,stock,GOOG,Buy,Srong Buy
+2019-11-01,stock,MSFT,Buy,Srong Buy
+2019-11-01,stock,AAPL,Sell,Srong Buy
+2019-11-01,stock,JNJ,Buy,Buy
+2019-11-01,stock,AMZN,Buy,Buy
+2019-11-01,stock,FB,Buy,Srong Buy
+2019-11-01,stock,BABA,Buy,Srong Buy
+2019-11-01,stock,JPM,Buy,Srong Buy
+2019-11-01,index,SPX,Buy,Srong Buy
+2019-11-01,index,IXIC,Buy,Srong Buy
+2019-11-01,index,DJI,Buy,Srong Buy
+2019-11-01,index,NI225,Buy,Srong Buy
+2019-11-01,index,VIX,Sell,Srong Sell
+2019-11-01,index,DAX,Buy,Srong Buy
+2019-11-01,index,TSX,Buy,Srong Buy
+2019-11-01,index,NIFTY,Buy,Srong Buy
+2019-11-01,crypto,IOTAUSD,Buy,Srong Sell
+2019-11-01,crypto,LTCUSD,Sell,Neutral
+2019-11-01,crypto,DASHUSD,Buy,Sell
+2019-11-01,crypto,BNBUSD,Buy,Buy
+2019-11-01,crypto,BTCUSD,Buy,Srong Buy
+2019-11-01,crypto,XRPUSD,Sell,Srong Buy
+2019-11-01,crypto,EOSUSD,Buy,Buy
+2019-11-01,crypto,ETHUSD,Buy,Neutral
+2019-11-02,crypto,DASHUSD,Sell,Neutral
+2019-11-02,crypto,BTCUSD,Neutral,Srong Buy
+2019-11-02,crypto,ETHUSD,Buy,Buy
+2019-11-02,crypto,BNBUSD,Neutral,Buy
+2019-11-02,crypto,XRPUSD,Neutral,Buy
+2019-11-02,crypto,EOSUSD,Neutral,Buy
+2019-11-02,crypto,IOTAUSD,Buy,Sell
+2019-11-02,crypto,LTCUSD,Sell,Sell
+2019-11-03,crypto,EOSUSD,Neutral,Buy
+2019-11-03,crypto,LTCUSD,Sell,Sell
+2019-11-03,crypto,BTCUSD,Neutral,Srong Buy
+2019-11-03,crypto,DASHUSD,Neutral,Neutral
+2019-11-03,crypto,BNBUSD,Sell,Buy
+2019-11-03,crypto,XRPUSD,Sell,Srong Buy
+2019-11-03,crypto,IOTAUSD,Buy,Neutral
+2019-11-03,crypto,ETHUSD,Buy,Buy
+2019-11-04,stock,AAPL,Buy,Srong Buy
+2019-11-04,stock,MSFT,Neutral,Srong Buy
+2019-11-04,stock,AMZN,Buy,Srong Buy
+2019-11-04,stock,JPM,Neutral,Srong Buy
+2019-11-04,stock,JNJ,Buy,Buy
+2019-11-04,stock,GOOG,Buy,Srong Buy
+2019-11-04,stock,BABA,Buy,Srong Buy
+2019-11-04,stock,FB,Buy,Srong Buy
+2019-11-04,crypto,DASHUSD,Buy,Sell
+2019-11-04,crypto,ETHUSD,Sell,Sell
+2019-11-04,crypto,IOTAUSD,Sell,Srong Sell
+2019-11-04,crypto,LTCUSD,Neutral,Buy
+2019-11-04,crypto,BTCUSD,Buy,Srong Buy
+2019-11-04,crypto,EOSUSD,Buy,Buy
+2019-11-04,crypto,XRPUSD,Neutral,Neutral
+2019-11-04,crypto,BNBUSD,Buy,Buy
+2019-11-04,index,TSX,Neutral,Srong Buy
+2019-11-04,index,SPX,Buy,Srong Buy
+2019-11-04,index,DJI,Buy,Srong Buy
+2019-11-04,index,NI225,Buy,Srong Buy
+2019-11-04,index,NIFTY,Buy,Srong Buy
+2019-11-04,index,DAX,Buy,Srong Buy
+2019-11-04,index,VIX,Sell,Srong Sell
+2019-11-04,index,IXIC,Buy,Srong Buy
+2019-11-05,index,TSX,Neutral,Srong Buy
+2019-11-05,index,SPX,Buy,Srong Buy
+2019-11-05,index,NI225,Buy,Srong Buy
+2019-11-05,index,VIX,Sell,Srong Sell
+2019-11-05,index,DAX,Neutral,Srong Buy
+2019-11-05,index,NIFTY,Buy,Srong Buy
+2019-11-05,index,DJI,Neutral,Srong Buy
+2019-11-05,index,IXIC,Buy,Srong Buy
+2019-11-05,stock,JNJ,Buy,Srong Sell
+2019-11-05,stock,BABA,Buy,Srong Buy
+2019-11-05,stock,AAPL,Buy,Srong Buy
+2019-11-05,stock,FB,Buy,Srong Buy
+2019-11-05,stock,JPM,Buy,Srong Buy
+2019-11-05,stock,AMZN,Buy,Srong Buy
+2019-11-05,stock,GOOG,Neutral,Srong Buy
+2019-11-05,stock,MSFT,Buy,Srong Buy
+2019-11-05,crypto,ETHUSD,Buy,Buy
+2019-11-05,crypto,BTCUSD,Buy,Srong Buy
+2019-11-05,crypto,DASHUSD,Buy,Buy
+2019-11-05,crypto,BNBUSD,Buy,Buy
+2019-11-05,crypto,EOSUSD,Buy,Buy
+2019-11-05,crypto,XRPUSD,Neutral,Srong Buy
+2019-11-05,crypto,IOTAUSD,Neutral,Srong Sell
+2019-11-05,crypto,LTCUSD,Buy,Buy
+2019-11-06,stock,AAPL,Neutral,Srong Buy
+2019-11-06,stock,JNJ,Buy,Srong Sell
+2019-11-06,stock,AMZN,Sell,Srong Buy
+2019-11-06,stock,GOOG,Neutral,Srong Buy
+2019-11-06,stock,FB,Neutral,Srong Buy
+2019-11-06,stock,MSFT,Sell,Srong Buy
+2019-11-06,stock,BABA,Buy,Srong Buy
+2019-11-06,stock,JPM,Neutral,Srong Buy
+2019-11-06,crypto,EOSUSD,Buy,Srong Buy
+2019-11-06,crypto,LTCUSD,Buy,Buy
+2019-11-06,crypto,DASHUSD,Neutral,Buy
+2019-11-06,crypto,ETHUSD,Buy,Srong Buy
+2019-11-06,crypto,BNBUSD,Buy,Buy
+2019-11-06,crypto,XRPUSD,Sell,Srong Buy
+2019-11-06,crypto,BTCUSD,Buy,Srong Buy
+2019-11-06,crypto,IOTAUSD,Buy,Srong Buy
+2019-11-06,index,NI225,Neutral,Srong Buy
+2019-11-06,index,TSX,Sell,Srong Buy
+2019-11-06,index,DJI,Sell,Srong Buy
+2019-11-06,index,NIFTY,Sell,Srong Buy
+2019-11-06,index,SPX,Sell,Srong Buy
+2019-11-06,index,VIX,Sell,Srong Sell
+2019-11-06,index,IXIC,Sell,Srong Buy
+2019-11-06,index,DAX,Neutral,Srong Buy
+2019-11-07,crypto,DASHUSD,Buy,Buy
+2019-11-07,crypto,ETHUSD,Buy,Srong Buy
+2019-11-07,crypto,EOSUSD,Buy,Srong Buy
+2019-11-07,crypto,LTCUSD,Buy,Buy
+2019-11-07,crypto,BTCUSD,Buy,Srong Buy
+2019-11-07,crypto,BNBUSD,Buy,Buy
+2019-11-07,crypto,XRPUSD,Buy,Srong Buy
+2019-11-07,crypto,IOTAUSD,Buy,Srong Buy
+2019-11-07,stock,JPM,Buy,Srong Buy
+2019-11-07,stock,MSFT,Buy,Srong Buy
+2019-11-07,stock,AMZN,Neutral,Buy
+2019-11-07,stock,BABA,Buy,Srong Buy
+2019-11-07,stock,FB,Buy,Srong Buy
+2019-11-07,stock,JNJ,Buy,Buy
+2019-11-07,stock,AAPL,Buy,Srong Buy
+2019-11-07,stock,GOOG,Buy,Srong Buy
+2019-11-07,index,DAX,Buy,Srong Buy
+2019-11-07,index,NI225,Buy,Srong Buy
+2019-11-07,index,TSX,Neutral,Srong Buy
+2019-11-07,index,VIX,Neutral,Srong Sell
+2019-11-07,index,NIFTY,Sell,Srong Buy
+2019-11-07,index,IXIC,Sell,Srong Buy
+2019-11-07,index,DJI,Buy,Srong Buy
+2019-11-07,index,SPX,Buy,Srong Buy
+2019-11-08,crypto,DASHUSD,Buy,Sell
+2019-11-08,crypto,EOSUSD,Buy,Buy
+2019-11-08,crypto,BNBUSD,Buy,Buy
+2019-11-08,crypto,ETHUSD,Buy,Buy
+2019-11-08,crypto,IOTAUSD,Sell,Srong Sell
+2019-11-08,crypto,XRPUSD,Neutral,Sell
+2019-11-08,crypto,BTCUSD,Neutral,Srong Buy
+2019-11-08,crypto,LTCUSD,Buy,Buy
+2019-11-08,stock,BABA,Buy,Srong Buy
+2019-11-08,stock,GOOG,Sell,Srong Buy
+2019-11-08,stock,FB,Buy,Srong Buy
+2019-11-08,stock,JPM,Sell,Srong Buy
+2019-11-08,stock,MSFT,Neutral,Srong Buy
+2019-11-08,stock,JNJ,Neutral,Buy
+2019-11-08,stock,AMZN,Buy,Buy
+2019-11-08,stock,AAPL,Sell,Srong Buy
+2019-11-08,index,DAX,Neutral,Srong Buy
+2019-11-08,index,TSX,Sell,Srong Buy
+2019-11-08,index,DJI,Sell,Srong Buy
+2019-11-08,index,VIX,Sell,Srong Sell
+2019-11-08,index,IXIC,Buy,Srong Buy
+2019-11-08,index,SPX,Sell,Srong Buy
+2019-11-08,index,NIFTY,Sell,Srong Buy
+2019-11-08,index,NI225,Buy,Srong Buy
+2019-11-09,crypto,IOTAUSD,Sell,Srong Sell
+2019-11-09,crypto,DASHUSD,Buy,Srong Sell
+2019-11-09,crypto,BTCUSD,Buy,Srong Sell
+2019-11-09,crypto,BNBUSD,Buy,Neutral
+2019-11-09,crypto,LTCUSD,Buy,Buy
+2019-11-09,crypto,EOSUSD,Buy,Buy
+2019-11-09,crypto,XRPUSD,Neutral,Srong Sell
+2019-11-09,crypto,ETHUSD,Buy,Sell
+2019-11-10,crypto,BNBUSD,Sell,Neutral
+2019-11-10,crypto,ETHUSD,Buy,Buy
+2019-11-10,crypto,LTCUSD,Buy,Buy
+2019-11-10,crypto,IOTAUSD,Sell,Srong Sell
+2019-11-10,crypto,BTCUSD,Sell,Srong Sell
+2019-11-10,crypto,DASHUSD,Neutral,Srong Sell
+2019-11-10,crypto,XRPUSD,Sell,Srong Sell
+2019-11-10,crypto,EOSUSD,Neutral,Buy
+2019-11-11,stock,JNJ,Neutral,Srong Buy
+2019-11-11,stock,FB,Buy,Srong Buy
+2019-11-11,stock,GOOG,Neutral,Srong Buy
+2019-11-11,stock,JPM,Buy,Srong Buy
+2019-11-11,stock,BABA,Buy,Srong Buy
+2019-11-11,stock,MSFT,Buy,Srong Buy
+2019-11-11,stock,AAPL,Buy,Srong Buy
+2019-11-11,stock,AMZN,Neutral,Neutral
+2019-11-11,crypto,IOTAUSD,Sell,Srong Sell
+2019-11-11,crypto,LTCUSD,Buy,Buy
+2019-11-11,crypto,ETHUSD,Neutral,Srong Buy
+2019-11-11,crypto,BTCUSD,Sell,Buy
+2019-11-11,crypto,DASHUSD,Neutral,Neutral
+2019-11-11,crypto,EOSUSD,Buy,Srong Buy
+2019-11-11,crypto,XRPUSD,Sell,Srong Sell
+2019-11-11,crypto,BNBUSD,Sell,Buy
+2019-11-11,index,DJI,Buy,Srong Buy
+2019-11-11,index,VIX,Sell,Srong Sell
+2019-11-11,index,NIFTY,Buy,Srong Buy
+2019-11-11,index,SPX,Buy,Srong Buy
+2019-11-11,index,DAX,Sell,Srong Buy
+2019-11-11,index,IXIC,Buy,Srong Buy
+2019-11-11,index,NI225,Neutral,Srong Buy
+2019-11-11,index,TSX,Neutral,Srong Buy
+2019-11-12,stock,AAPL,Buy,Srong Buy
+2019-11-12,stock,AMZN,Buy,Srong Sell
+2019-11-12,stock,MSFT,Neutral,Srong Buy
+2019-11-12,stock,BABA,Neutral,Srong Buy
+2019-11-12,stock,JPM,Sell,Srong Buy
+2019-11-12,stock,FB,Neutral,Srong Buy
+2019-11-12,stock,GOOG,Buy,Srong Buy
+2019-11-12,stock,JNJ,Buy,Buy
+2019-11-12,crypto,IOTAUSD,Sell,Srong Sell
+2019-11-12,crypto,EOSUSD,Buy,Buy
+2019-11-12,crypto,DASHUSD,Sell,Srong Sell
+2019-11-12,crypto,XRPUSD,Neutral,Srong Sell
+2019-11-12,crypto,ETHUSD,Buy,Sell
+2019-11-12,crypto,BNBUSD,Neutral,Buy
+2019-11-12,crypto,LTCUSD,Buy,Buy
+2019-11-12,crypto,BTCUSD,Neutral,Srong Sell
+2019-11-12,index,NI225,Buy,Srong Buy
+2019-11-12,index,DJI,Buy,Srong Buy
+2019-11-12,index,TSX,Sell,Srong Buy
+2019-11-12,index,DAX,Buy,Srong Buy
+2019-11-12,index,VIX,Neutral,Srong Sell
+2019-11-12,index,SPX,Neutral,Srong Buy
+2019-11-12,index,NIFTY,Buy,Srong Buy
+2019-11-12,index,IXIC,Buy,Srong Buy
+2019-11-13,index,TSX,Buy,Srong Buy
+2019-11-13,index,VIX,Buy,Srong Sell
+2019-11-13,index,DJI,Neutral,Srong Buy
+2019-11-13,index,SPX,Sell,Srong Buy
+2019-11-13,index,DAX,Neutral,Srong Buy
+2019-11-13,index,NIFTY,Buy,Srong Buy
+2019-11-13,index,NI225,Neutral,Srong Buy
+2019-11-13,index,IXIC,Sell,Srong Buy
+2019-11-13,stock,FB,Buy,Srong Buy
+2019-11-13,stock,AMZN,Neutral,Sell
+2019-11-13,stock,BABA,Neutral,Srong Buy
+2019-11-13,stock,JNJ,Buy,Buy
+2019-11-13,stock,AAPL,Sell,Srong Buy
+2019-11-13,stock,MSFT,Neutral,Srong Buy
+2019-11-13,stock,GOOG,Neutral,Srong Buy
+2019-11-13,stock,JPM,Buy,Srong Buy
+2019-11-13,crypto,BNBUSD,Sell,Buy
+2019-11-13,crypto,XRPUSD,Sell,Srong Sell
+2019-11-13,crypto,LTCUSD,Buy,Neutral
+2019-11-13,crypto,ETHUSD,Buy,Srong Buy
+2019-11-13,crypto,EOSUSD,Neutral,Buy
+2019-11-13,crypto,DASHUSD,Sell,Srong Sell
+2019-11-13,crypto,IOTAUSD,Sell,Srong Sell
+2019-11-13,crypto,BTCUSD,Neutral,Sell
+2019-11-14,index,DAX,Buy,Srong Buy
+2019-11-14,index,NIFTY,Neutral,Buy
+2019-11-14,index,VIX,Neutral,Sell
+2019-11-14,index,NI225,Buy,Srong Buy
+2019-11-14,index,IXIC,Neutral,Srong Buy
+2019-11-14,index,TSX,Neutral,Srong Buy
+2019-11-14,index,SPX,Buy,Srong Buy
+2019-11-14,index,DJI,Buy,Srong Buy
+2019-11-14,stock,BABA,Buy,Srong Buy
+2019-11-14,stock,MSFT,Buy,Srong Buy
+2019-11-14,stock,JPM,Sell,Srong Buy
+2019-11-14,stock,JNJ,Buy,Neutral
+2019-11-14,stock,AMZN,Neutral,Srong Sell
+2019-11-14,stock,FB,Buy,Srong Buy
+2019-11-14,stock,AAPL,Buy,Srong Buy
+2019-11-14,stock,GOOG,Buy,Srong Buy
+2019-11-14,crypto,EOSUSD,Buy,Buy
+2019-11-14,crypto,IOTAUSD,Sell,Srong Sell
+2019-11-14,crypto,ETHUSD,Buy,Srong Buy
+2019-11-14,crypto,BNBUSD,Buy,Srong Buy
+2019-11-14,crypto,DASHUSD,Sell,Srong Sell
+2019-11-14,crypto,LTCUSD,Buy,Sell
+2019-11-14,crypto,XRPUSD,Sell,Srong Sell
+2019-11-14,crypto,BTCUSD,Sell,Sell
+2019-11-15,index,TSX,Neutral,Srong Buy
+2019-11-15,index,DJI,Sell,Srong Buy
+2019-11-15,index,NIFTY,Neutral,Srong Buy
+2019-11-15,index,DAX,Neutral,Srong Buy
+2019-11-15,index,NI225,Neutral,Buy
+2019-11-15,index,VIX,Buy,Sell
+2019-11-15,index,SPX,Neutral,Srong Buy
+2019-11-15,index,IXIC,Sell,Srong Buy
+2019-11-15,crypto,XRPUSD,Sell,Srong Sell
+2019-11-15,crypto,IOTAUSD,Sell,Srong Sell
+2019-11-15,crypto,BNBUSD,Buy,Srong Buy
+2019-11-15,crypto,EOSUSD,Neutral,Sell
+2019-11-15,crypto,ETHUSD,Buy,Sell
+2019-11-15,crypto,LTCUSD,Sell,Srong Sell
+2019-11-15,crypto,BTCUSD,Sell,Srong Sell
+2019-11-15,crypto,DASHUSD,Sell,Srong Sell
+2019-11-15,stock,AMZN,Sell,Srong Sell
+2019-11-15,stock,GOOG,Neutral,Srong Buy
+2019-11-15,stock,FB,Buy,Srong Buy
+2019-11-15,stock,AAPL,Neutral,Srong Buy
+2019-11-15,stock,JNJ,Sell,Sell
+2019-11-15,stock,BABA,Buy,Srong Buy
+2019-11-15,stock,JPM,Sell,Srong Buy
+2019-11-15,stock,MSFT,Neutral,Srong Buy
+2019-11-16,crypto,BTCUSD,Buy,Srong Sell
+2019-11-16,crypto,LTCUSD,Sell,Srong Sell
+2019-11-16,crypto,ETHUSD,Neutral,Srong Sell
+2019-11-16,crypto,IOTAUSD,Sell,Srong Sell
+2019-11-16,crypto,DASHUSD,Neutral,Srong Sell
+2019-11-16,crypto,EOSUSD,Neutral,Sell
+2019-11-16,crypto,XRPUSD,Buy,Srong Sell
+2019-11-16,crypto,BNBUSD,Neutral,Sell
+2019-11-17,crypto,XRPUSD,Buy,Srong Sell
+2019-11-17,crypto,EOSUSD,Sell,Sell
+2019-11-17,crypto,BNBUSD,Buy,Sell
+2019-11-17,crypto,LTCUSD,Neutral,Srong Sell
+2019-11-17,crypto,ETHUSD,Sell,Srong Sell
+2019-11-17,crypto,IOTAUSD,Sell,Srong Sell
+2019-11-17,crypto,BTCUSD,Buy,Srong Sell
+2019-11-17,crypto,DASHUSD,Sell,Srong Sell
+2019-11-18,crypto,IOTAUSD,Sell,Srong Sell
+2019-11-18,crypto,ETHUSD,Sell,Neutral
+2019-11-18,crypto,EOSUSD,Sell,Neutral
+2019-11-18,crypto,LTCUSD,Neutral,Sell
+2019-11-18,crypto,XRPUSD,Sell,Srong Sell
+2019-11-18,crypto,BNBUSD,Sell,Sell
+2019-11-18,crypto,BTCUSD,Buy,Srong Sell
+2019-11-18,crypto,DASHUSD,Sell,Srong Sell
+2019-11-18,index,NI225,Sell,Srong Buy
+2019-11-18,index,VIX,Neutral,Srong Sell
+2019-11-18,index,DAX,Neutral,Srong Buy
+2019-11-18,index,IXIC,Buy,Srong Buy
+2019-11-18,index,DJI,Buy,Srong Buy
+2019-11-18,index,NIFTY,Neutral,Srong Buy
+2019-11-18,index,TSX,Buy,Srong Buy
+2019-11-18,index,SPX,Buy,Srong Buy
+2019-11-18,stock,AAPL,Buy,Srong Buy
+2019-11-18,stock,GOOG,Sell,Srong Buy
+2019-11-18,stock,AMZN,Neutral,Srong Sell
+2019-11-18,stock,BABA,Neutral,Srong Buy
+2019-11-18,stock,FB,Buy,Srong Buy
+2019-11-18,stock,MSFT,Buy,Srong Buy
+2019-11-18,stock,JPM,Neutral,Srong Buy
+2019-11-18,stock,JNJ,Buy,Srong Buy
+2019-11-19,index,NIFTY,Neutral,Srong Buy
+2019-11-19,index,DJI,Buy,Srong Buy
+2019-11-19,index,VIX,Buy,Srong Sell
+2019-11-19,index,NI225,Sell,Srong Buy
+2019-11-19,index,TSX,Buy,Srong Buy
+2019-11-19,index,IXIC,Buy,Srong Buy
+2019-11-19,index,DAX,Sell,Srong Buy
+2019-11-19,index,SPX,Buy,Srong Buy
+2019-11-19,crypto,EOSUSD,Sell,Srong Sell
+2019-11-19,crypto,DASHUSD,Sell,Srong Sell
+2019-11-19,crypto,XRPUSD,Sell,Srong Sell
+2019-11-19,crypto,IOTAUSD,Sell,Srong Sell
+2019-11-19,crypto,BNBUSD,Sell,Srong Sell
+2019-11-19,crypto,LTCUSD,Sell,Srong Sell
+2019-11-19,crypto,ETHUSD,Sell,Srong Sell
+2019-11-19,crypto,BTCUSD,Sell,Srong Sell
+2019-11-19,stock,MSFT,Buy,Srong Buy
+2019-11-19,stock,JPM,Sell,Srong Buy
+2019-11-19,stock,JNJ,Sell,Srong Buy
+2019-11-19,stock,FB,Buy,Srong Buy
+2019-11-19,stock,BABA,Buy,Srong Buy
+2019-11-19,stock,AMZN,Buy,Srong Sell
+2019-11-19,stock,AAPL,Buy,Srong Buy
+2019-11-19,stock,GOOG,Buy,Srong Buy
+2019-11-20,index,SPX,Sell,Srong Buy
+2019-11-20,index,VIX,Sell,Sell
+2019-11-20,index,DJI,Buy,Srong Buy
+2019-11-20,index,DAX,Sell,Srong Buy
+2019-11-20,index,NI225,Neutral,Srong Buy
+2019-11-20,index,NIFTY,Sell,Srong Buy
+2019-11-20,index,TSX,Buy,Srong Buy
+2019-11-20,index,IXIC,Sell,Srong Buy
+2019-11-20,stock,GOOG,Buy,Srong Buy
+2019-11-20,stock,JPM,Sell,Srong Buy
+2019-11-20,stock,AAPL,Buy,Srong Buy
+2019-11-20,stock,BABA,Buy,Srong Buy
+2019-11-20,stock,MSFT,Sell,Srong Buy
+2019-11-20,stock,JNJ,Buy,Srong Buy
+2019-11-20,stock,FB,Buy,Srong Buy
+2019-11-20,stock,AMZN,Sell,Srong Sell
+2019-11-20,crypto,LTCUSD,Sell,Srong Sell
+2019-11-20,crypto,XRPUSD,Buy,Srong Sell
+2019-11-20,crypto,DASHUSD,Sell,Srong Sell
+2019-11-20,crypto,ETHUSD,Sell,Srong Sell
+2019-11-20,crypto,EOSUSD,Neutral,Srong Sell
+2019-11-20,crypto,BTCUSD,Neutral,Srong Sell
+2019-11-20,crypto,IOTAUSD,Sell,Srong Sell
+2019-11-20,crypto,BNBUSD,Neutral,Srong Sell
+2019-11-21,stock,JPM,Neutral,Srong Buy
+2019-11-21,stock,MSFT,Buy,Srong Buy
+2019-11-21,stock,AAPL,Sell,Srong Buy
+2019-11-21,stock,JNJ,Buy,Srong Buy
+2019-11-21,stock,FB,Neutral,Srong Buy
+2019-11-21,stock,GOOG,Neutral,Srong Buy
+2019-11-21,stock,BABA,Neutral,Srong Buy
+2019-11-21,stock,AMZN,Sell,Srong Sell
+2019-11-21,crypto,DASHUSD,Sell,Srong Sell
+2019-11-21,crypto,BTCUSD,Neutral,Srong Sell
+2019-11-21,crypto,ETHUSD,Neutral,Srong Sell
+2019-11-21,crypto,EOSUSD,Sell,Srong Sell
+2019-11-21,crypto,XRPUSD,Sell,Srong Sell
+2019-11-21,crypto,BNBUSD,Neutral,Srong Sell
+2019-11-21,crypto,LTCUSD,Neutral,Srong Sell
+2019-11-21,crypto,IOTAUSD,Sell,Srong Sell
+2019-11-21,index,NI225,Neutral,Buy
+2019-11-21,index,IXIC,Buy,Srong Buy
+2019-11-21,index,VIX,Neutral,Sell
+2019-11-21,index,SPX,Buy,Srong Buy
+2019-11-21,index,DAX,Neutral,Srong Buy
+2019-11-21,index,TSX,Buy,Srong Buy
+2019-11-21,index,NIFTY,Sell,Srong Buy
+2019-11-21,index,DJI,Buy,Srong Buy
+2019-11-22,crypto,DASHUSD,Buy,Srong Sell
+2019-11-22,crypto,IOTAUSD,Neutral,Srong Sell
+2019-11-22,crypto,BNBUSD,Neutral,Srong Sell
+2019-11-22,crypto,BTCUSD,Buy,Srong Sell
+2019-11-22,crypto,XRPUSD,Neutral,Srong Sell
+2019-11-22,crypto,ETHUSD,Neutral,Srong Sell
+2019-11-22,crypto,LTCUSD,Neutral,Srong Sell
+2019-11-22,crypto,EOSUSD,Sell,Srong Sell
+2019-11-22,stock,MSFT,Buy,Srong Buy
+2019-11-22,stock,JPM,Neutral,Srong Buy
+2019-11-22,stock,AMZN,Sell,Srong Sell
+2019-11-22,stock,AAPL,Neutral,Srong Buy
+2019-11-22,stock,BABA,Sell,Srong Buy
+2019-11-22,stock,GOOG,Buy,Srong Buy
+2019-11-22,stock,JNJ,Buy,Srong Buy
+2019-11-22,stock,FB,Sell,Srong Buy
+2019-11-22,index,SPX,Buy,Srong Buy
+2019-11-22,index,VIX,Sell,Sell
+2019-11-22,index,NI225,Sell,Buy
+2019-11-22,index,TSX,Buy,Srong Buy
+2019-11-22,index,DJI,Buy,Buy
+2019-11-22,index,NIFTY,Buy,Srong Buy
+2019-11-22,index,IXIC,Neutral,Srong Buy
+2019-11-22,index,DAX,Neutral,Srong Buy
+2019-11-23,crypto,BNBUSD,Buy,Srong Sell
+2019-11-23,crypto,EOSUSD,Buy,Srong Sell
+2019-11-23,crypto,IOTAUSD,Buy,Srong Sell
+2019-11-23,crypto,DASHUSD,Buy,Srong Sell
+2019-11-23,crypto,BTCUSD,Buy,Srong Sell
+2019-11-23,crypto,XRPUSD,Neutral,Srong Sell
+2019-11-23,crypto,LTCUSD,Buy,Srong Sell
+2019-11-23,crypto,ETHUSD,Buy,Srong Sell
+2019-11-24,crypto,LTCUSD,Sell,Srong Sell
+2019-11-24,crypto,BTCUSD,Sell,Srong Sell
+2019-11-24,crypto,DASHUSD,Sell,Srong Sell
+2019-11-24,crypto,BNBUSD,Sell,Srong Sell
+2019-11-24,crypto,ETHUSD,Sell,Srong Sell
+2019-11-24,crypto,XRPUSD,Buy,Srong Sell
+2019-11-24,crypto,EOSUSD,Neutral,Srong Sell
+2019-11-24,crypto,IOTAUSD,Sell,Srong Sell
+2019-11-25,stock,AAPL,Neutral,Srong Buy
+2019-11-25,stock,MSFT,Buy,Srong Buy
+2019-11-25,stock,GOOG,Neutral,Buy
+2019-11-25,stock,FB,Buy,Srong Buy
+2019-11-25,stock,JNJ,Buy,Srong Buy
+2019-11-25,stock,JPM,Sell,Srong Buy
+2019-11-25,stock,BABA,Sell,Srong Buy
+2019-11-25,stock,AMZN,Sell,Srong Sell
+2019-11-25,crypto,XRPUSD,Neutral,Srong Sell
+2019-11-25,crypto,ETHUSD,Buy,Srong Sell
+2019-11-25,crypto,LTCUSD,Neutral,Srong Sell
+2019-11-25,crypto,EOSUSD,Neutral,Srong Sell
+2019-11-25,crypto,BTCUSD,Neutral,Srong Sell
+2019-11-25,crypto,BNBUSD,Buy,Srong Sell
+2019-11-25,crypto,DASHUSD,Buy,Srong Sell
+2019-11-25,crypto,IOTAUSD,Buy,Srong Sell
+2019-11-25,index,TSX,Buy,Srong Buy
+2019-11-25,index,IXIC,Neutral,Srong Buy
+2019-11-25,index,DJI,Sell,Srong Buy
+2019-11-25,index,NIFTY,Neutral,Srong Buy
+2019-11-25,index,NI225,Neutral,Buy
+2019-11-25,index,DAX,Sell,Srong Buy
+2019-11-25,index,SPX,Buy,Srong Buy
+2019-11-25,index,VIX,Buy,Srong Sell
+2019-11-26,crypto,XRPUSD,Neutral,Srong Sell
+2019-11-26,crypto,EOSUSD,Sell,Srong Sell
+2019-11-26,crypto,LTCUSD,Sell,Srong Sell
+2019-11-26,crypto,BTCUSD,Sell,Srong Sell
+2019-11-26,crypto,DASHUSD,Neutral,Srong Sell
+2019-11-26,crypto,BNBUSD,Sell,Srong Sell
+2019-11-26,crypto,ETHUSD,Sell,Srong Sell
+2019-11-26,crypto,IOTAUSD,Sell,Srong Sell
+2019-11-26,stock,AMZN,Sell,Buy
+2019-11-26,stock,FB,Buy,Srong Buy
+2019-11-26,stock,MSFT,Sell,Srong Buy
+2019-11-26,stock,BABA,Neutral,Srong Buy
+2019-11-26,stock,AAPL,Sell,Srong Buy
+2019-11-26,stock,JNJ,Sell,Srong Buy
+2019-11-26,stock,JPM,Sell,Srong Buy
+2019-11-26,stock,GOOG,Sell,Srong Buy
+2019-11-26,index,IXIC,Sell,Srong Buy
+2019-11-26,index,NI225,Sell,Srong Buy
+2019-11-26,index,SPX,Sell,Srong Buy
+2019-11-26,index,TSX,Sell,Srong Buy
+2019-11-26,index,VIX,Buy,Srong Sell
+2019-11-26,index,NIFTY,Sell,Srong Buy
+2019-11-26,index,DAX,Sell,Srong Buy
+2019-11-26,index,DJI,Neutral,Srong Buy
+2019-11-27,stock,BABA,Neutral,Srong Buy
+2019-11-27,stock,JPM,Sell,Srong Buy
+2019-11-27,stock,FB,Neutral,Srong Buy
+2019-11-27,stock,MSFT,Neutral,Srong Buy
+2019-11-27,stock,JNJ,Neutral,Srong Buy
+2019-11-27,stock,AMZN,Buy,Srong Buy
+2019-11-27,stock,AAPL,Neutral,Srong Buy
+2019-11-27,stock,GOOG,Sell,Srong Buy
+2019-11-27,crypto,IOTAUSD,Sell,Srong Sell
+2019-11-27,crypto,DASHUSD,Neutral,Srong Sell
+2019-11-27,crypto,XRPUSD,Sell,Srong Sell
+2019-11-27,crypto,ETHUSD,Buy,Srong Sell
+2019-11-27,crypto,BNBUSD,Sell,Srong Sell
+2019-11-27,crypto,BTCUSD,Sell,Srong Sell
+2019-11-27,crypto,EOSUSD,Sell,Srong Sell
+2019-11-27,crypto,LTCUSD,Sell,Srong Sell
+2019-11-27,index,TSX,Neutral,Srong Buy
+2019-11-27,index,NIFTY,Neutral,Srong Buy
+2019-11-27,index,IXIC,Buy,Srong Buy
+2019-11-27,index,VIX,Buy,Srong Sell
+2019-11-27,index,DAX,Neutral,Srong Buy
+2019-11-27,index,DJI,Sell,Srong Buy
+2019-11-27,index,SPX,Sell,Srong Buy
+2019-11-27,index,NI225,Neutral,Srong Buy
+2019-11-28,crypto,BNBUSD,Sell,Srong Sell
+2019-11-28,crypto,LTCUSD,Sell,Srong Sell
+2019-11-28,crypto,IOTAUSD,Sell,Srong Sell
+2019-11-28,crypto,EOSUSD,Sell,Srong Sell
+2019-11-28,crypto,ETHUSD,Sell,Srong Sell
+2019-11-28,crypto,XRPUSD,Sell,Srong Sell
+2019-11-28,crypto,BTCUSD,Sell,Srong Sell
+2019-11-28,crypto,DASHUSD,Sell,Srong Sell
+2019-11-29,crypto,DASHUSD,Sell,Srong Sell
+2019-11-29,crypto,ETHUSD,Sell,Srong Sell
+2019-11-29,crypto,IOTAUSD,Sell,Srong Sell
+2019-11-29,crypto,XRPUSD,Sell,Srong Sell
+2019-11-29,crypto,EOSUSD,Sell,Srong Sell
+2019-11-29,crypto,BNBUSD,Sell,Srong Sell
+2019-11-29,crypto,LTCUSD,Sell,Srong Sell
+2019-11-29,crypto,BTCUSD,Sell,Srong Sell
+2019-11-29,stock,FB,Buy,Srong Buy
+2019-11-29,stock,AMZN,Neutral,Srong Buy
+2019-11-29,stock,MSFT,Sell,Srong Buy
+2019-11-29,stock,GOOG,Sell,Srong Buy
+2019-11-29,stock,JPM,Sell,Srong Buy
+2019-11-29,stock,JNJ,Buy,Srong Buy
+2019-11-29,stock,BABA,Buy,Srong Buy
+2019-11-29,stock,AAPL,Sell,Srong Buy
+2019-11-29,index,NIFTY,Buy,Srong Buy
+2019-11-29,index,DJI,Buy,Srong Buy
+2019-11-29,index,TSX,Buy,Srong Buy
+2019-11-29,index,IXIC,Buy,Srong Buy
+2019-11-29,index,SPX,Buy,Srong Buy
+2019-11-29,index,DAX,Sell,Srong Buy
+2019-11-29,index,VIX,Buy,Srong Sell
+2019-11-29,index,NI225,Sell,Srong Buy
+2019-11-30,crypto,LTCUSD,Sell,Srong Sell
+2019-11-30,crypto,DASHUSD,Sell,Srong Sell
+2019-11-30,crypto,IOTAUSD,Sell,Srong Sell
+2019-11-30,crypto,BTCUSD,Sell,Sell
+2019-11-30,crypto,ETHUSD,Sell,Srong Sell
+2019-11-30,crypto,BNBUSD,Sell,Srong Sell
+2019-11-30,crypto,XRPUSD,Sell,Srong Sell
+2019-11-30,crypto,EOSUSD,Sell,Srong Sell
+2019-12-01,crypto,BNBUSD,Neutral,Srong Sell
+2019-12-01,crypto,DASHUSD,Sell,Srong Sell
+2019-12-01,crypto,BTCUSD,Sell,Srong Sell
+2019-12-01,crypto,IOTAUSD,Neutral,Srong Sell
+2019-12-01,crypto,XRPUSD,Neutral,Srong Sell
+2019-12-01,crypto,LTCUSD,Neutral,Srong Sell
+2019-12-01,crypto,ETHUSD,Sell,Srong Sell
+2019-12-01,crypto,EOSUSD,Sell,Srong Sell
+2019-12-02,crypto,XRPUSD,Sell,Srong Sell
+2019-12-02,crypto,IOTAUSD,Sell,Srong Sell
+2019-12-02,crypto,BNBUSD,Sell,Srong Sell
+2019-12-02,crypto,DASHUSD,Sell,Srong Sell
+2019-12-02,crypto,ETHUSD,Sell,Srong Sell
+2019-12-02,crypto,LTCUSD,Sell,Srong Sell
+2019-12-02,crypto,BTCUSD,Neutral,Srong Sell
+2019-12-02,crypto,EOSUSD,Sell,Srong Sell
+2019-12-02,index,DAX,Neutral,Srong Buy
+2019-12-02,index,IXIC,Buy,Srong Buy
+2019-12-02,index,SPX,Buy,Srong Buy
+2019-12-02,index,NI225,Neutral,Srong Buy
+2019-12-02,index,DJI,Buy,Srong Buy
+2019-12-02,index,TSX,Neutral,Srong Buy
+2019-12-02,index,VIX,Sell,Sell
+2019-12-02,index,NIFTY,Buy,Srong Buy
+2019-12-02,stock,FB,Neutral,Srong Buy
+2019-12-02,stock,GOOG,Neutral,Srong Buy
+2019-12-02,stock,AMZN,Buy,Srong Buy
+2019-12-02,stock,JNJ,Neutral,Srong Buy
+2019-12-02,stock,JPM,Sell,Srong Buy
+2019-12-02,stock,BABA,Buy,Srong Buy
+2019-12-02,stock,MSFT,Neutral,Srong Buy
+2019-12-02,stock,AAPL,Sell,Srong Buy
+2019-12-03,index,TSX,Neutral,Srong Buy
+2019-12-03,index,NIFTY,Sell,Srong Buy
+2019-12-03,index,NI225,Sell,Srong Buy
+2019-12-03,index,DJI,Neutral,Buy
+2019-12-03,index,DAX,Sell,Sell
+2019-12-03,index,VIX,Buy,Buy
+2019-12-03,index,SPX,Neutral,Buy
+2019-12-03,index,IXIC,Buy,Buy
+2019-12-03,crypto,BNBUSD,Sell,Srong Sell
+2019-12-03,crypto,IOTAUSD,Sell,Srong Sell
+2019-12-03,crypto,LTCUSD,Sell,Srong Sell
+2019-12-03,crypto,EOSUSD,Sell,Srong Sell
+2019-12-03,crypto,BTCUSD,Neutral,Srong Sell
+2019-12-03,crypto,XRPUSD,Sell,Srong Sell
+2019-12-03,crypto,DASHUSD,Sell,Srong Sell
+2019-12-03,crypto,ETHUSD,Sell,Srong Sell
+2019-12-03,stock,FB,Buy,Srong Buy
+2019-12-03,stock,MSFT,Neutral,Srong Buy
+2019-12-03,stock,JPM,Sell,Srong Buy
+2019-12-03,stock,GOOG,Sell,Neutral
+2019-12-03,stock,BABA,Buy,Srong Buy
+2019-12-03,stock,AMZN,Buy,Buy
+2019-12-03,stock,AAPL,Neutral,Srong Buy
+2019-12-03,stock,JNJ,Buy,Srong Buy
+2019-12-04,index,VIX,Buy,Srong Buy
+2019-12-04,index,TSX,Sell,Buy
+2019-12-04,index,SPX,Sell,Buy
+2019-12-04,index,DAX,Neutral,Sell
+2019-12-04,index,NIFTY,Neutral,Buy
+2019-12-04,index,IXIC,Sell,Buy
+2019-12-04,index,DJI,Sell,Sell
+2019-12-04,index,NI225,Neutral,Srong Buy
+2019-12-04,crypto,DASHUSD,Sell,Srong Sell
+2019-12-04,crypto,BTCUSD,Buy,Srong Sell
+2019-12-04,crypto,EOSUSD,Buy,Srong Sell
+2019-12-04,crypto,BNBUSD,Neutral,Srong Sell
+2019-12-04,crypto,LTCUSD,Neutral,Srong Sell
+2019-12-04,crypto,XRPUSD,Buy,Srong Sell
+2019-12-04,crypto,ETHUSD,Neutral,Srong Sell
+2019-12-04,crypto,IOTAUSD,Neutral,Srong Sell
+2019-12-04,stock,JNJ,Neutral,Srong Buy
+2019-12-04,stock,BABA,Buy,Srong Buy
+2019-12-04,stock,JPM,Neutral,Buy
+2019-12-04,stock,FB,Buy,Srong Buy
+2019-12-04,stock,AAPL,Sell,Buy
+2019-12-04,stock,MSFT,Neutral,Srong Buy
+2019-12-04,stock,GOOG,Sell,Buy
+2019-12-04,stock,AMZN,Buy,Srong Sell
+2019-12-05,stock,BABA,Buy,Srong Buy
+2019-12-05,stock,AMZN,Buy,Srong Sell
+2019-12-05,stock,FB,Buy,Srong Buy
+2019-12-05,stock,JPM,Sell,Srong Buy
+2019-12-05,stock,JNJ,Buy,Srong Buy
+2019-12-05,stock,GOOG,Sell,Srong Buy
+2019-12-05,stock,AAPL,Neutral,Buy
+2019-12-05,stock,MSFT,Sell,Srong Buy
+2019-12-05,crypto,IOTAUSD,Sell,Srong Sell
+2019-12-05,crypto,LTCUSD,Sell,Srong Sell
+2019-12-05,crypto,BTCUSD,Neutral,Srong Sell
+2019-12-05,crypto,DASHUSD,Sell,Srong Sell
+2019-12-05,crypto,BNBUSD,Sell,Srong Sell
+2019-12-05,crypto,XRPUSD,Buy,Srong Sell
+2019-12-05,crypto,ETHUSD,Sell,Srong Sell
+2019-12-05,crypto,EOSUSD,Neutral,Srong Sell
+2019-12-05,index,VIX,Buy,Buy
+2019-12-05,index,TSX,Buy,Buy
+2019-12-05,index,DJI,Sell,Buy
+2019-12-05,index,IXIC,Neutral,Srong Buy
+2019-12-05,index,SPX,Neutral,Srong Buy
+2019-12-05,index,NIFTY,Neutral,Srong Buy
+2019-12-05,index,DAX,Sell,Srong Buy
+2019-12-05,index,NI225,Sell,Buy
+2019-12-06,stock,JPM,Sell,Srong Buy
+2019-12-06,stock,AMZN,Neutral,Srong Sell
+2019-12-06,stock,BABA,Buy,Srong Buy
+2019-12-06,stock,AAPL,Sell,Srong Buy
+2019-12-06,stock,MSFT,Sell,Srong Buy
+2019-12-06,stock,FB,Sell,Srong Buy
+2019-12-06,stock,JNJ,Buy,Srong Buy
+2019-12-06,stock,GOOG,Sell,Srong Buy
+2019-12-06,crypto,BTCUSD,Neutral,Srong Sell
+2019-12-06,crypto,BNBUSD,Sell,Srong Sell
+2019-12-06,crypto,DASHUSD,Sell,Srong Sell
+2019-12-06,crypto,EOSUSD,Neutral,Srong Sell
+2019-12-06,crypto,LTCUSD,Sell,Srong Sell
+2019-12-06,crypto,ETHUSD,Sell,Srong Sell
+2019-12-06,crypto,IOTAUSD,Neutral,Srong Sell
+2019-12-06,crypto,XRPUSD,Neutral,Srong Sell
+2019-12-06,index,SPX,Sell,Srong Buy
+2019-12-06,index,VIX,Buy,Buy
+2019-12-06,index,TSX,Sell,Buy
+2019-12-06,index,NIFTY,Sell,Srong Buy
+2019-12-06,index,NI225,Neutral,Buy
+2019-12-06,index,DJI,Sell,Buy
+2019-12-06,index,DAX,Buy,Buy
+2019-12-06,index,IXIC,Sell,Srong Buy
+2019-12-07,crypto,DASHUSD,Neutral,Srong Sell
+2019-12-07,crypto,BTCUSD,Neutral,Sell
+2019-12-07,crypto,BNBUSD,Buy,Srong Sell
+2019-12-07,crypto,XRPUSD,Neutral,Srong Sell
+2019-12-07,crypto,ETHUSD,Buy,Srong Sell
+2019-12-07,crypto,IOTAUSD,Buy,Srong Sell
+2019-12-07,crypto,LTCUSD,Neutral,Srong Sell
+2019-12-07,crypto,EOSUSD,Buy,Srong Sell
+2019-12-08,crypto,XRPUSD,Buy,Srong Sell
+2019-12-08,crypto,ETHUSD,Buy,Srong Sell
+2019-12-08,crypto,EOSUSD,Buy,Srong Sell
+2019-12-08,crypto,BNBUSD,Buy,Srong Sell
+2019-12-08,crypto,DASHUSD,Buy,Srong Sell
+2019-12-08,crypto,BTCUSD,Buy,Sell
+2019-12-08,crypto,LTCUSD,Buy,Srong Sell
+2019-12-08,crypto,IOTAUSD,Buy,Srong Sell
+2019-12-09,crypto,IOTAUSD,Neutral,Srong Sell
+2019-12-09,crypto,DASHUSD,Buy,Srong Sell
+2019-12-09,crypto,EOSUSD,Sell,Sell
+2019-12-09,crypto,XRPUSD,Neutral,Sell
+2019-12-09,crypto,BTCUSD,Sell,Sell
+2019-12-09,crypto,LTCUSD,Neutral,Srong Sell
+2019-12-09,crypto,BNBUSD,Sell,Srong Sell
+2019-12-09,crypto,ETHUSD,Neutral,Srong Sell
+2019-12-09,stock,GOOG,Buy,Srong Buy
+2019-12-09,stock,BABA,Buy,Srong Buy
+2019-12-09,stock,MSFT,Sell,Srong Buy
+2019-12-09,stock,AMZN,Sell,Srong Sell
+2019-12-09,stock,AAPL,Sell,Srong Buy
+2019-12-09,stock,FB,Sell,Srong Buy
+2019-12-09,stock,JNJ,Sell,Srong Buy
+2019-12-09,stock,JPM,Sell,Srong Buy
+2019-12-09,index,VIX,Buy,Sell
+2019-12-09,index,DAX,Sell,Srong Buy
+2019-12-09,index,TSX,Neutral,Srong Buy
+2019-12-09,index,IXIC,Sell,Srong Buy
+2019-12-09,index,NI225,Neutral,Srong Buy
+2019-12-09,index,DJI,Sell,Srong Buy
+2019-12-09,index,NIFTY,Sell,Buy
+2019-12-09,index,SPX,Sell,Srong Buy
+2019-12-10,crypto,ETHUSD,Buy,Srong Sell
+2019-12-10,crypto,BNBUSD,Buy,Srong Sell
+2019-12-10,crypto,XRPUSD,Buy,Srong Sell
+2019-12-10,crypto,LTCUSD,Buy,Srong Sell
+2019-12-10,crypto,EOSUSD,Buy,Srong Sell
+2019-12-10,crypto,DASHUSD,Buy,Srong Sell
+2019-12-10,crypto,IOTAUSD,Buy,Srong Sell
+2019-12-10,crypto,BTCUSD,Buy,Srong Sell
+2019-12-10,index,DAX,Neutral,Buy
+2019-12-10,index,SPX,Neutral,Srong Buy
+2019-12-10,index,NIFTY,Buy,Buy
+2019-12-10,index,VIX,Buy,Srong Buy
+2019-12-10,index,NI225,Neutral,Srong Buy
+2019-12-10,index,TSX,Buy,Buy
+2019-12-10,index,DJI,Neutral,Srong Buy
+2019-12-10,index,IXIC,Neutral,Srong Buy
+2019-12-10,stock,JPM,Buy,Srong Buy
+2019-12-10,stock,AMZN,Sell,Srong Sell
+2019-12-10,stock,BABA,Buy,Srong Buy
+2019-12-10,stock,FB,Neutral,Srong Buy
+2019-12-10,stock,AAPL,Neutral,Srong Buy
+2019-12-10,stock,JNJ,Sell,Srong Buy
+2019-12-10,stock,MSFT,Sell,Srong Buy
+2019-12-10,stock,GOOG,Sell,Srong Buy
+2019-12-11,index,IXIC,Buy,Srong Buy
+2019-12-11,index,DAX,Sell,Neutral
+2019-12-11,index,NIFTY,Neutral,Sell
+2019-12-11,index,NI225,Neutral,Srong Buy
+2019-12-11,index,SPX,Buy,Srong Buy
+2019-12-11,index,VIX,Sell,Srong Buy
+2019-12-11,index,TSX,Neutral,Buy
+2019-12-11,index,DJI,Buy,Srong Buy
+2019-12-11,crypto,DASHUSD,Neutral,Srong Sell
+2019-12-11,crypto,ETHUSD,Neutral,Srong Sell
+2019-12-11,crypto,XRPUSD,Neutral,Srong Sell
+2019-12-11,crypto,BTCUSD,Neutral,Srong Sell
+2019-12-11,crypto,IOTAUSD,Neutral,Srong Sell
+2019-12-11,crypto,LTCUSD,Neutral,Srong Sell
+2019-12-11,crypto,EOSUSD,Buy,Srong Sell
+2019-12-11,crypto,BNBUSD,Buy,Srong Sell
+2019-12-11,stock,MSFT,Buy,Srong Buy
+2019-12-11,stock,JNJ,Neutral,Srong Buy
+2019-12-11,stock,FB,Buy,Srong Buy
+2019-12-11,stock,JPM,Buy,Srong Buy
+2019-12-11,stock,AMZN,Sell,Srong Sell
+2019-12-11,stock,GOOG,Buy,Srong Buy
+2019-12-11,stock,BABA,Buy,Srong Buy
+2019-12-11,stock,AAPL,Buy,Srong Buy
+2019-12-12,stock,AAPL,Sell,Srong Buy
+2019-12-12,stock,MSFT,Neutral,Srong Buy
+2019-12-12,stock,JPM,Buy,Srong Buy
+2019-12-12,stock,BABA,Buy,Srong Buy
+2019-12-12,stock,JNJ,Neutral,Srong Buy
+2019-12-12,stock,AMZN,Buy,Srong Sell
+2019-12-12,stock,GOOG,Buy,Srong Buy
+2019-12-12,stock,FB,Sell,Srong Buy
+2019-12-12,crypto,LTCUSD,Buy,Srong Sell
+2019-12-12,crypto,BNBUSD,Sell,Srong Sell
+2019-12-12,crypto,ETHUSD,Buy,Srong Sell
+2019-12-12,crypto,XRPUSD,Buy,Srong Sell
+2019-12-12,crypto,EOSUSD,Buy,Srong Sell
+2019-12-12,crypto,IOTAUSD,Buy,Srong Sell
+2019-12-12,crypto,BTCUSD,Neutral,Srong Sell
+2019-12-12,crypto,DASHUSD,Neutral,Srong Sell
+2019-12-12,index,DAX,Sell,Srong Buy
+2019-12-12,index,DJI,Buy,Srong Buy
+2019-12-12,index,IXIC,Sell,Srong Buy
+2019-12-12,index,VIX,Buy,Buy
+2019-12-12,index,NI225,Buy,Srong Buy
+2019-12-12,index,SPX,Sell,Srong Buy
+2019-12-12,index,NIFTY,Neutral,Buy
+2019-12-12,index,TSX,Buy,Buy
+2019-12-13,stock,JNJ,Buy,Srong Buy
+2019-12-13,stock,GOOG,Buy,Srong Buy
+2019-12-13,stock,MSFT,Neutral,Srong Buy
+2019-12-13,stock,FB,Sell,Neutral
+2019-12-13,stock,AMZN,Neutral,Srong Sell
+2019-12-13,stock,JPM,Neutral,Srong Buy
+2019-12-13,stock,BABA,Buy,Srong Buy
+2019-12-13,stock,AAPL,Sell,Srong Buy
+2019-12-13,index,IXIC,Sell,Srong Buy
+2019-12-13,index,DJI,Neutral,Srong Buy
+2019-12-13,index,NIFTY,Sell,Srong Buy
+2019-12-13,index,DAX,Sell,Srong Buy
+2019-12-13,index,VIX,Buy,Sell
+2019-12-13,index,TSX,Buy,Buy
+2019-12-13,index,NI225,Sell,Srong Buy
+2019-12-13,index,SPX,Sell,Srong Buy
+2019-12-13,crypto,DASHUSD,Buy,Srong Sell
+2019-12-13,crypto,ETHUSD,Neutral,Srong Sell
+2019-12-13,crypto,BNBUSD,Buy,Srong Sell
+2019-12-13,crypto,XRPUSD,Neutral,Srong Sell
+2019-12-13,crypto,BTCUSD,Sell,Srong Sell
+2019-12-13,crypto,LTCUSD,Buy,Srong Sell
+2019-12-13,crypto,EOSUSD,Sell,Srong Sell
+2019-12-13,crypto,IOTAUSD,Buy,Srong Sell
+2019-12-14,crypto,XRPUSD,Sell,Srong Sell
+2019-12-14,crypto,DASHUSD,Neutral,Srong Sell
+2019-12-14,crypto,ETHUSD,Neutral,Srong Sell
+2019-12-14,crypto,BNBUSD,Buy,Srong Sell
+2019-12-14,crypto,EOSUSD,Neutral,Srong Sell
+2019-12-14,crypto,IOTAUSD,Buy,Srong Sell
+2019-12-14,crypto,LTCUSD,Buy,Srong Sell
+2019-12-14,crypto,BTCUSD,Sell,Srong Sell
+2019-12-15,crypto,EOSUSD,Neutral,Srong Sell
+2019-12-15,crypto,DASHUSD,Neutral,Srong Sell
+2019-12-15,crypto,BTCUSD,Buy,Srong Sell
+2019-12-15,crypto,ETHUSD,Buy,Srong Sell
+2019-12-15,crypto,LTCUSD,Buy,Srong Sell
+2019-12-15,crypto,IOTAUSD,Neutral,Srong Sell
+2019-12-15,crypto,XRPUSD,Neutral,Srong Sell
+2019-12-15,crypto,BNBUSD,Buy,Srong Sell
+2019-12-16,crypto,BNBUSD,Buy,Srong Sell
+2019-12-16,crypto,ETHUSD,Buy,Srong Sell
+2019-12-16,crypto,BTCUSD,Buy,Srong Sell
+2019-12-16,crypto,EOSUSD,Buy,Srong Sell
+2019-12-16,crypto,IOTAUSD,Buy,Srong Sell
+2019-12-16,crypto,DASHUSD,Neutral,Srong Sell
+2019-12-16,crypto,XRPUSD,Buy,Srong Sell
+2019-12-16,crypto,LTCUSD,Buy,Srong Sell
+2019-12-16,index,VIX,Buy,Srong Sell
+2019-12-16,index,NIFTY,Sell,Srong Buy
+2019-12-16,index,DJI,Sell,Srong Buy
+2019-12-16,index,SPX,Sell,Srong Buy
+2019-12-16,index,NI225,Neutral,Srong Buy
+2019-12-16,index,DAX,Sell,Srong Buy
+2019-12-16,index,TSX,Sell,Srong Buy
+2019-12-16,index,IXIC,Sell,Srong Buy
+2019-12-16,stock,JNJ,Sell,Srong Buy
+2019-12-16,stock,AAPL,Sell,Srong Buy
+2019-12-16,stock,MSFT,Neutral,Srong Buy
+2019-12-16,stock,GOOG,Sell,Srong Buy
+2019-12-16,stock,BABA,Sell,Srong Buy
+2019-12-16,stock,AMZN,Sell,Srong Sell
+2019-12-16,stock,FB,Neutral,Sell
+2019-12-16,stock,JPM,Buy,Srong Buy
+2019-12-17,index,IXIC,Neutral,Srong Buy
+2019-12-17,index,NI225,Buy,Srong Buy
+2019-12-17,index,SPX,Neutral,Srong Buy
+2019-12-17,index,TSX,Sell,Srong Buy
+2019-12-17,index,NIFTY,Buy,Srong Buy
+2019-12-17,index,DJI,Buy,Srong Buy
+2019-12-17,index,VIX,Neutral,Srong Sell
+2019-12-17,index,DAX,Buy,Srong Buy
+2019-12-17,crypto,ETHUSD,Neutral,Srong Sell
+2019-12-17,crypto,BNBUSD,Buy,Srong Sell
+2019-12-17,crypto,LTCUSD,Buy,Srong Sell
+2019-12-17,crypto,DASHUSD,Buy,Srong Sell
+2019-12-17,crypto,IOTAUSD,Neutral,Srong Sell
+2019-12-17,crypto,BTCUSD,Buy,Srong Sell
+2019-12-17,crypto,EOSUSD,Neutral,Srong Sell
+2019-12-17,crypto,XRPUSD,Buy,Srong Sell
+2019-12-17,stock,BABA,Sell,Srong Buy
+2019-12-17,stock,AMZN,Sell,Buy
+2019-12-17,stock,FB,Sell,Buy
+2019-12-17,stock,JNJ,Sell,Srong Buy
+2019-12-17,stock,GOOG,Sell,Srong Buy
+2019-12-17,stock,MSFT,Buy,Srong Buy
+2019-12-17,stock,JPM,Sell,Srong Buy
+2019-12-17,stock,AAPL,Neutral,Srong Buy
+2019-12-18,stock,AAPL,Sell,Srong Buy
+2019-12-18,stock,JPM,Neutral,Srong Buy
+2019-12-18,stock,GOOG,Buy,Srong Buy
+2019-12-18,stock,FB,Sell,Buy
+2019-12-18,stock,MSFT,Neutral,Srong Buy
+2019-12-18,stock,AMZN,Neutral,Srong Buy
+2019-12-18,stock,JNJ,Neutral,Srong Buy
+2019-12-18,stock,BABA,Neutral,Srong Buy
+2019-12-18,index,TSX,Sell,Srong Buy
+2019-12-18,index,NIFTY,Sell,Srong Buy
+2019-12-18,index,IXIC,Sell,Srong Buy
+2019-12-18,index,SPX,Sell,Srong Buy
+2019-12-18,index,VIX,Buy,Srong Sell
+2019-12-18,index,NI225,Neutral,Srong Buy
+2019-12-18,index,DAX,Buy,Srong Buy
+2019-12-18,index,DJI,Neutral,Srong Buy
+2019-12-18,crypto,LTCUSD,Neutral,Srong Sell
+2019-12-18,crypto,BTCUSD,Neutral,Srong Sell
+2019-12-18,crypto,ETHUSD,Neutral,Srong Sell
+2019-12-18,crypto,IOTAUSD,Buy,Srong Sell
+2019-12-18,crypto,XRPUSD,Neutral,Srong Sell
+2019-12-18,crypto,EOSUSD,Neutral,Srong Sell
+2019-12-18,crypto,BNBUSD,Neutral,Srong Sell
+2019-12-18,crypto,DASHUSD,Neutral,Srong Sell
+2019-12-19,crypto,XRPUSD,Sell,Srong Sell
+2019-12-19,crypto,BTCUSD,Sell,Neutral
+2019-12-19,crypto,IOTAUSD,Neutral,Srong Sell
+2019-12-19,crypto,LTCUSD,Sell,Srong Sell
+2019-12-19,crypto,BNBUSD,Sell,Srong Sell
+2019-12-19,crypto,EOSUSD,Sell,Srong Sell
+2019-12-19,crypto,ETHUSD,Sell,Srong Sell
+2019-12-19,crypto,DASHUSD,Sell,Srong Sell
+2019-12-19,index,VIX,Sell,Srong Sell
+2019-12-19,index,DJI,Buy,Srong Buy
+2019-12-19,index,IXIC,Neutral,Srong Buy
+2019-12-19,index,TSX,Neutral,Srong Buy
+2019-12-19,index,NI225,Sell,Srong Buy
+2019-12-19,index,DAX,Buy,Srong Buy
+2019-12-19,index,SPX,Buy,Srong Buy
+2019-12-19,index,NIFTY,Buy,Srong Buy
+2019-12-19,stock,BABA,Neutral,Srong Buy
+2019-12-19,stock,AAPL,Neutral,Srong Buy
+2019-12-19,stock,JPM,Buy,Srong Buy
+2019-12-19,stock,AMZN,Buy,Srong Buy
+2019-12-19,stock,JNJ,Neutral,Srong Buy
+2019-12-19,stock,GOOG,Buy,Srong Buy
+2019-12-19,stock,MSFT,Buy,Srong Buy
+2019-12-19,stock,FB,Sell,Srong Buy
+2019-12-20,index,SPX,Neutral,Srong Buy
+2019-12-20,index,TSX,Sell,Srong Buy
+2019-12-20,index,NI225,Buy,Srong Buy
+2019-12-20,index,NIFTY,Buy,Srong Buy
+2019-12-20,index,DAX,Sell,Srong Buy
+2019-12-20,index,DJI,Buy,Srong Buy
+2019-12-20,index,VIX,Sell,Srong Sell
+2019-12-20,index,IXIC,Neutral,Srong Buy
+2019-12-20,crypto,ETHUSD,Sell,Srong Sell
+2019-12-20,crypto,IOTAUSD,Sell,Srong Sell
+2019-12-20,crypto,LTCUSD,Sell,Srong Sell
+2019-12-20,crypto,BNBUSD,Sell,Srong Sell
+2019-12-20,crypto,DASHUSD,Sell,Srong Sell
+2019-12-20,crypto,BTCUSD,Sell,Srong Sell
+2019-12-20,crypto,XRPUSD,Sell,Srong Sell
+2019-12-20,crypto,EOSUSD,Sell,Srong Sell
+2019-12-20,stock,MSFT,Buy,Srong Buy
+2019-12-20,stock,FB,Buy,Srong Buy
+2019-12-20,stock,GOOG,Buy,Srong Buy
+2019-12-20,stock,JPM,Buy,Srong Buy
+2019-12-20,stock,BABA,Neutral,Srong Buy
+2019-12-20,stock,JNJ,Neutral,Srong Buy
+2019-12-20,stock,AMZN,Buy,Srong Buy
+2019-12-20,stock,AAPL,Neutral,Srong Buy
+2019-12-21,crypto,DASHUSD,Sell,Srong Sell
+2019-12-21,crypto,XRPUSD,Sell,Srong Sell
+2019-12-21,crypto,BNBUSD,Sell,Srong Sell
+2019-12-21,crypto,ETHUSD,Sell,Srong Sell
+2019-12-21,crypto,BTCUSD,Sell,Srong Sell
+2019-12-21,crypto,LTCUSD,Sell,Srong Sell
+2019-12-21,crypto,IOTAUSD,Sell,Srong Sell
+2019-12-21,crypto,EOSUSD,Sell,Srong Sell
+2019-12-22,crypto,BTCUSD,Buy,Srong Sell
+2019-12-22,crypto,IOTAUSD,Buy,Srong Sell
+2019-12-22,crypto,BNBUSD,Neutral,Srong Sell
+2019-12-22,crypto,EOSUSD,Buy,Srong Sell
+2019-12-22,crypto,LTCUSD,Buy,Srong Sell
+2019-12-22,crypto,DASHUSD,Neutral,Srong Sell
+2019-12-22,crypto,ETHUSD,Sell,Srong Sell
+2019-12-22,crypto,XRPUSD,Neutral,Srong Sell
+2019-12-23,crypto,ETHUSD,Sell,Srong Sell
+2019-12-23,crypto,BNBUSD,Neutral,Srong Sell
+2019-12-23,crypto,LTCUSD,Neutral,Srong Sell
+2019-12-23,crypto,BTCUSD,Buy,Buy
+2019-12-23,crypto,IOTAUSD,Sell,Srong Sell
+2019-12-23,crypto,XRPUSD,Sell,Srong Sell
+2019-12-23,crypto,DASHUSD,Sell,Srong Sell
+2019-12-23,crypto,EOSUSD,Neutral,Sell
+2019-12-23,index,NIFTY,Sell,Srong Buy
+2019-12-23,index,SPX,Buy,Srong Buy
+2019-12-23,index,DAX,Buy,Srong Buy
+2019-12-23,index,VIX,Sell,Srong Sell
+2019-12-23,index,IXIC,Buy,Srong Buy
+2019-12-23,index,DJI,Buy,Srong Buy
+2019-12-23,index,NI225,Buy,Srong Buy
+2019-12-23,index,TSX,Buy,Srong Buy
+2019-12-23,stock,BABA,Sell,Srong Buy
+2019-12-23,stock,JNJ,Sell,Srong Buy
+2019-12-23,stock,MSFT,Buy,Srong Buy
+2019-12-23,stock,AAPL,Buy,Srong Buy
+2019-12-23,stock,AMZN,Buy,Srong Buy
+2019-12-23,stock,FB,Buy,Srong Buy
+2019-12-23,stock,JPM,Neutral,Srong Buy
+2019-12-23,stock,GOOG,Buy,Srong Buy
+2019-12-24,index,NI225,Buy,Srong Buy
+2019-12-24,index,TSX,Neutral,Srong Buy
+2019-12-24,index,DJI,Neutral,Srong Buy
+2019-12-24,index,NIFTY,Neutral,Srong Buy
+2019-12-24,index,SPX,Sell,Srong Buy
+2019-12-24,index,DAX,Neutral,Srong Buy
+2019-12-24,index,IXIC,Sell,Srong Buy
+2019-12-24,index,VIX,Buy,Srong Sell
+2019-12-24,stock,AAPL,Sell,Srong Buy
+2019-12-24,stock,GOOG,Neutral,Srong Buy
+2019-12-24,stock,MSFT,Sell,Srong Buy
+2019-12-24,stock,JNJ,Sell,Srong Buy
+2019-12-24,stock,FB,Buy,Srong Buy
+2019-12-24,stock,BABA,Sell,Srong Buy
+2019-12-24,stock,JPM,Sell,Srong Buy
+2019-12-24,stock,AMZN,Buy,Srong Buy
+2019-12-24,crypto,EOSUSD,Buy,Srong Sell
+2019-12-24,crypto,BNBUSD,Buy,Srong Sell
+2019-12-24,crypto,DASHUSD,Neutral,Srong Sell
+2019-12-24,crypto,ETHUSD,Neutral,Srong Sell
+2019-12-24,crypto,XRPUSD,Neutral,Srong Sell
+2019-12-24,crypto,LTCUSD,Buy,Srong Sell
+2019-12-24,crypto,IOTAUSD,Buy,Srong Sell
+2019-12-24,crypto,BTCUSD,Buy,Sell
+2019-12-25,crypto,IOTAUSD,Sell,Srong Sell
+2019-12-25,crypto,DASHUSD,Sell,Srong Sell
+2019-12-25,crypto,XRPUSD,Sell,Srong Sell
+2019-12-25,crypto,BNBUSD,Neutral,Srong Sell
+2019-12-25,crypto,ETHUSD,Sell,Srong Sell
+2019-12-25,crypto,LTCUSD,Sell,Srong Sell
+2019-12-25,crypto,BTCUSD,Sell,Sell
+2019-12-25,crypto,EOSUSD,Sell,Srong Sell
+2019-12-26,stock,FB,Neutral,Srong Buy
+2019-12-26,stock,JPM,Sell,Srong Buy
+2019-12-26,stock,BABA,Neutral,Srong Buy
+2019-12-26,stock,AMZN,Neutral,Srong Buy
+2019-12-26,stock,AAPL,Sell,Srong Buy
+2019-12-26,stock,GOOG,Neutral,Srong Buy
+2019-12-26,stock,JNJ,Sell,Srong Buy
+2019-12-26,stock,MSFT,Sell,Srong Buy
+2019-12-26,crypto,IOTAUSD,Sell,Srong Sell
+2019-12-26,crypto,ETHUSD,Neutral,Srong Sell
+2019-12-26,crypto,BNBUSD,Buy,Srong Sell
+2019-12-26,crypto,BTCUSD,Buy,Srong Sell
+2019-12-26,crypto,DASHUSD,Neutral,Srong Sell
+2019-12-26,crypto,XRPUSD,Neutral,Srong Sell
+2019-12-26,crypto,EOSUSD,Buy,Srong Sell
+2019-12-26,crypto,LTCUSD,Buy,Srong Sell
+2019-12-26,index,DJI,Sell,Srong Buy
+2019-12-26,index,IXIC,Neutral,Srong Buy
+2019-12-26,index,TSX,Buy,Srong Buy
+2019-12-26,index,DAX,Neutral,Srong Buy
+2019-12-26,index,SPX,Sell,Srong Buy
+2019-12-26,index,NI225,Neutral,Srong Buy
+2019-12-26,index,VIX,Sell,Srong Sell
+2019-12-26,index,NIFTY,Sell,Srong Buy
+2019-12-27,index,DJI,Neutral,Srong Buy
+2019-12-27,index,VIX,Sell,Srong Sell
+2019-12-27,index,DAX,Neutral,Srong Buy
+2019-12-27,index,NI225,Sell,Srong Buy
+2019-12-27,index,TSX,Buy,Srong Buy
+2019-12-27,index,SPX,Neutral,Srong Buy
+2019-12-27,index,NIFTY,Buy,Buy
+2019-12-27,index,IXIC,Buy,Srong Buy
+2019-12-27,stock,JNJ,Buy,Srong Buy
+2019-12-27,stock,AMZN,Buy,Srong Buy
+2019-12-27,stock,FB,Buy,Srong Buy
+2019-12-27,stock,GOOG,Sell,Srong Buy
+2019-12-27,stock,AAPL,Neutral,Srong Buy
+2019-12-27,stock,MSFT,Neutral,Srong Buy
+2019-12-27,stock,BABA,Buy,Srong Buy
+2019-12-27,stock,JPM,Sell,Srong Buy
+2019-12-27,crypto,ETHUSD,Neutral,Srong Sell
+2019-12-27,crypto,IOTAUSD,Neutral,Srong Sell
+2019-12-27,crypto,LTCUSD,Neutral,Srong Sell
+2019-12-27,crypto,BNBUSD,Neutral,Srong Sell
+2019-12-27,crypto,BTCUSD,Buy,Srong Sell
+2019-12-27,crypto,DASHUSD,Sell,Srong Sell
+2019-12-27,crypto,XRPUSD,Sell,Srong Sell
+2019-12-27,crypto,EOSUSD,Neutral,Srong Sell
+2019-12-28,crypto,LTCUSD,Sell,Srong Sell
+2019-12-28,crypto,IOTAUSD,Neutral,Srong Sell
+2019-12-28,crypto,BNBUSD,Sell,Srong Sell
+2019-12-28,crypto,ETHUSD,Sell,Srong Sell
+2019-12-28,crypto,BTCUSD,Sell,Sell
+2019-12-28,crypto,DASHUSD,Sell,Srong Sell
+2019-12-28,crypto,XRPUSD,Sell,Srong Sell
+2019-12-28,crypto,EOSUSD,Sell,Sell
+2019-12-29,crypto,DASHUSD,Buy,Srong Sell
+2019-12-29,crypto,EOSUSD,Buy,Buy
+2019-12-29,crypto,LTCUSD,Buy,Neutral
+2019-12-29,crypto,IOTAUSD,Buy,Srong Sell
+2019-12-29,crypto,ETHUSD,Buy,Srong Sell
+2019-12-29,crypto,BNBUSD,Buy,Srong Sell
+2019-12-29,crypto,BTCUSD,Buy,Neutral
+2019-12-29,crypto,XRPUSD,Buy,Srong Sell
+2019-12-30,crypto,XRPUSD,Neutral,Srong Sell
+2019-12-30,crypto,EOSUSD,Sell,Buy
+2019-12-30,crypto,DASHUSD,Neutral,Sell
+2019-12-30,crypto,BNBUSD,Buy,Sell
+2019-12-30,crypto,IOTAUSD,Neutral,Sell
+2019-12-30,crypto,BTCUSD,Neutral,Buy
+2019-12-30,crypto,ETHUSD,Buy,Sell
+2019-12-30,crypto,LTCUSD,Neutral,Neutral
+2019-12-30,index,NI225,Buy,Srong Buy
+2019-12-30,index,TSX,Neutral,Srong Buy
+2019-12-30,index,DAX,Neutral,Srong Buy
+2019-12-30,index,NIFTY,Neutral,Srong Buy
+2019-12-30,index,SPX,Sell,Srong Buy
+2019-12-30,index,VIX,Sell,Buy
+2019-12-30,index,IXIC,Neutral,Srong Buy
+2019-12-30,index,DJI,Neutral,Srong Buy
+2019-12-30,stock,FB,Sell,Srong Buy
+2019-12-30,stock,AMZN,Neutral,Srong Buy
+2019-12-30,stock,AAPL,Neutral,Srong Buy
+2019-12-30,stock,BABA,Neutral,Srong Buy
+2019-12-30,stock,MSFT,Neutral,Srong Buy
+2019-12-30,stock,GOOG,Neutral,Srong Buy
+2019-12-30,stock,JNJ,Buy,Srong Buy
+2019-12-30,stock,JPM,Sell,Srong Buy
+2019-12-31,index,DJI,Buy,Srong Buy
+2019-12-31,index,DAX,Buy,Srong Buy
+2019-12-31,index,TSX,Buy,Srong Buy
+2019-12-31,index,SPX,Buy,Srong Buy
+2019-12-31,index,NI225,Neutral,Buy
+2019-12-31,index,IXIC,Buy,Srong Buy
+2019-12-31,index,VIX,Neutral,Buy
+2019-12-31,index,NIFTY,Buy,Srong Buy
+2019-12-31,crypto,XRPUSD,Buy,Srong Sell
+2019-12-31,crypto,BNBUSD,Buy,Sell
+2019-12-31,crypto,BTCUSD,Buy,Srong Sell
+2019-12-31,crypto,LTCUSD,Buy,Sell
+2019-12-31,crypto,ETHUSD,Buy,Sell
+2019-12-31,crypto,IOTAUSD,Buy,Srong Sell
+2019-12-31,crypto,EOSUSD,Buy,Neutral
+2019-12-31,crypto,DASHUSD,Buy,Srong Sell
+2019-12-31,stock,AMZN,Neutral,Srong Buy
+2019-12-31,stock,JNJ,Buy,Srong Buy
+2019-12-31,stock,BABA,Buy,Srong Buy
+2019-12-31,stock,MSFT,Buy,Srong Buy
+2019-12-31,stock,FB,Neutral,Srong Buy
+2019-12-31,stock,JPM,Sell,Srong Buy
+2019-12-31,stock,GOOG,Neutral,Buy
+2019-12-31,stock,AAPL,Neutral,Srong Buy
+2020-01-01,crypto,ETHUSD,Buy,Srong Sell
+2020-01-01,crypto,IOTAUSD,Neutral,Srong Sell
+2020-01-01,crypto,EOSUSD,Sell,Sell
+2020-01-01,crypto,DASHUSD,Buy,Srong Sell
+2020-01-01,crypto,BNBUSD,Sell,Sell
+2020-01-01,crypto,BTCUSD,Sell,Srong Sell
+2020-01-01,crypto,XRPUSD,Neutral,Srong Sell
+2020-01-01,crypto,LTCUSD,Buy,Srong Sell
+2020-01-02,index,DAX,Buy,Srong Buy
+2020-01-02,index,DJI,Buy,Srong Buy
+2020-01-02,index,SPX,Buy,Srong Buy
+2020-01-02,index,NIFTY,Buy,Buy
+2020-01-02,index,IXIC,Buy,Srong Buy
+2020-01-02,index,TSX,Neutral,Srong Buy
+2020-01-02,index,VIX,Buy,Buy
+2020-01-02,index,NI225,Neutral,Buy
+2020-01-02,crypto,LTCUSD,Buy,Srong Sell
+2020-01-02,crypto,IOTAUSD,Buy,Srong Sell
+2020-01-02,crypto,EOSUSD,Buy,Sell
+2020-01-02,crypto,BTCUSD,Buy,Srong Sell
+2020-01-02,crypto,BNBUSD,Buy,Sell
+2020-01-02,crypto,ETHUSD,Buy,Srong Sell
+2020-01-02,crypto,XRPUSD,Buy,Srong Sell
+2020-01-02,crypto,DASHUSD,Buy,Srong Sell
+2020-01-02,stock,JNJ,Sell,Srong Buy
+2020-01-02,stock,MSFT,Buy,Srong Buy
+2020-01-02,stock,BABA,Neutral,Srong Buy
+2020-01-02,stock,AMZN,Buy,Srong Buy
+2020-01-02,stock,JPM,Sell,Srong Buy
+2020-01-02,stock,FB,Buy,Srong Buy
+2020-01-02,stock,AAPL,Buy,Srong Buy
+2020-01-02,stock,GOOG,Neutral,Buy
+2020-01-03,index,DJI,Neutral,Srong Buy
+2020-01-03,index,SPX,Neutral,Srong Buy
+2020-01-03,index,IXIC,Buy,Srong Buy
+2020-01-03,index,VIX,Buy,Srong Sell
+2020-01-03,index,NIFTY,Sell,Srong Buy
+2020-01-03,index,NI225,Neutral,Buy
+2020-01-03,index,TSX,Buy,Srong Buy
+2020-01-03,index,DAX,Buy,Srong Buy
+2020-01-03,crypto,ETHUSD,Sell,Srong Sell
+2020-01-03,crypto,BNBUSD,Buy,Srong Sell
+2020-01-03,crypto,XRPUSD,Neutral,Srong Sell
+2020-01-03,crypto,IOTAUSD,Neutral,Srong Sell
+2020-01-03,crypto,LTCUSD,Neutral,Srong Sell
+2020-01-03,crypto,DASHUSD,Neutral,Srong Sell
+2020-01-03,crypto,EOSUSD,Neutral,Srong Sell
+2020-01-03,crypto,BTCUSD,Buy,Srong Sell
+2020-01-03,stock,JNJ,Sell,Srong Buy
+2020-01-03,stock,JPM,Neutral,Srong Buy
+2020-01-03,stock,BABA,Sell,Srong Buy
+2020-01-03,stock,GOOG,Neutral,Srong Buy
+2020-01-03,stock,MSFT,Neutral,Srong Buy
+2020-01-03,stock,FB,Neutral,Srong Buy
+2020-01-03,stock,AAPL,Buy,Srong Buy
+2020-01-03,stock,AMZN,Neutral,Srong Buy
+2020-01-04,crypto,BNBUSD,Sell,Sell
+2020-01-04,crypto,BTCUSD,Sell,Neutral
+2020-01-04,crypto,DASHUSD,Neutral,Sell
+2020-01-04,crypto,LTCUSD,Sell,Sell
+2020-01-04,crypto,EOSUSD,Sell,Buy
+2020-01-04,crypto,XRPUSD,Neutral,Srong Sell
+2020-01-04,crypto,ETHUSD,Neutral,Sell
+2020-01-04,crypto,IOTAUSD,Neutral,Sell
+2020-01-05,crypto,DASHUSD,Buy,Buy
+2020-01-05,crypto,LTCUSD,Neutral,Neutral
+2020-01-05,crypto,XRPUSD,Sell,Srong Sell
+2020-01-05,crypto,ETHUSD,Sell,Sell
+2020-01-05,crypto,BTCUSD,Sell,Buy
+2020-01-05,crypto,BNBUSD,Sell,Sell
+2020-01-05,crypto,EOSUSD,Neutral,Buy
+2020-01-05,crypto,IOTAUSD,Neutral,Sell
+2020-01-06,index,IXIC,Buy,Srong Buy
+2020-01-06,index,VIX,Buy,Buy
+2020-01-06,index,TSX,Neutral,Srong Buy
+2020-01-06,index,NI225,Neutral,Buy
+2020-01-06,index,DJI,Buy,Srong Buy
+2020-01-06,index,SPX,Buy,Srong Buy
+2020-01-06,index,NIFTY,Neutral,Srong Buy
+2020-01-06,index,DAX,Neutral,Buy
+2020-01-06,stock,MSFT,Buy,Srong Buy
+2020-01-06,stock,FB,Neutral,Srong Buy
+2020-01-06,stock,GOOG,Neutral,Srong Buy
+2020-01-06,stock,BABA,Sell,Srong Buy
+2020-01-06,stock,AMZN,Buy,Srong Buy
+2020-01-06,stock,JPM,Neutral,Srong Buy
+2020-01-06,stock,AAPL,Buy,Srong Buy
+2020-01-06,stock,JNJ,Neutral,Srong Buy
+2020-01-06,crypto,BNBUSD,Buy,Neutral
+2020-01-06,crypto,BTCUSD,Neutral,Buy
+2020-01-06,crypto,LTCUSD,Neutral,Buy
+2020-01-06,crypto,XRPUSD,Neutral,Sell
+2020-01-06,crypto,IOTAUSD,Neutral,Sell
+2020-01-06,crypto,DASHUSD,Neutral,Buy
+2020-01-06,crypto,ETHUSD,Neutral,Neutral
+2020-01-06,crypto,EOSUSD,Buy,Buy
+2020-01-07,index,DAX,Neutral,Sell
+2020-01-07,index,NIFTY,Neutral,Sell
+2020-01-07,index,SPX,Buy,Srong Buy
+2020-01-07,index,VIX,Buy,Buy
+2020-01-07,index,NI225,Sell,Sell
+2020-01-07,index,TSX,Sell,Srong Buy
+2020-01-07,index,IXIC,Buy,Srong Buy
+2020-01-07,index,DJI,Buy,Srong Buy
+2020-01-07,crypto,XRPUSD,Buy,Buy
+2020-01-07,crypto,ETHUSD,Neutral,Buy
+2020-01-07,crypto,BNBUSD,Neutral,Buy
+2020-01-07,crypto,BTCUSD,Buy,Buy
+2020-01-07,crypto,LTCUSD,Neutral,Buy
+2020-01-07,crypto,DASHUSD,Neutral,Buy
+2020-01-07,crypto,EOSUSD,Buy,Buy
+2020-01-07,crypto,IOTAUSD,Neutral,Buy
+2020-01-07,stock,AMZN,Neutral,Srong Buy
+2020-01-07,stock,BABA,Neutral,Srong Buy
+2020-01-07,stock,AAPL,Sell,Srong Buy
+2020-01-07,stock,FB,Neutral,Srong Buy
+2020-01-07,stock,MSFT,Buy,Srong Buy
+2020-01-07,stock,JNJ,Neutral,Srong Buy
+2020-01-07,stock,GOOG,Buy,Srong Buy
+2020-01-07,stock,JPM,Sell,Srong Buy
+2020-01-08,index,DAX,Sell,Srong Buy
+2020-01-08,index,SPX,Neutral,Srong Buy
+2020-01-08,index,NI225,Sell,Buy
+2020-01-08,index,DJI,Neutral,Srong Buy
+2020-01-08,index,TSX,Sell,Srong Buy
+2020-01-08,index,VIX,Buy,Buy
+2020-01-08,index,IXIC,Buy,Srong Buy
+2020-01-08,index,NIFTY,Sell,Sell
+2020-01-08,stock,MSFT,Buy,Srong Buy
+2020-01-08,stock,JPM,Neutral,Buy
+2020-01-08,stock,GOOG,Sell,Srong Buy
+2020-01-08,stock,AAPL,Buy,Srong Buy
+2020-01-08,stock,JNJ,Sell,Srong Buy
+2020-01-08,stock,FB,Sell,Srong Buy
+2020-01-08,stock,BABA,Neutral,Srong Buy
+2020-01-08,stock,AMZN,Sell,Srong Buy
+2020-01-08,crypto,BTCUSD,Neutral,Srong Buy
+2020-01-08,crypto,XRPUSD,Neutral,Buy
+2020-01-08,crypto,IOTAUSD,Sell,Buy
+2020-01-08,crypto,DASHUSD,Neutral,Buy
+2020-01-08,crypto,BNBUSD,Buy,Buy
+2020-01-08,crypto,LTCUSD,Buy,Buy
+2020-01-08,crypto,ETHUSD,Buy,Buy
+2020-01-08,crypto,EOSUSD,Buy,Buy
+2020-01-09,index,NIFTY,Sell,Sell
+2020-01-09,index,VIX,Buy,Sell
+2020-01-09,index,SPX,Sell,Srong Buy
+2020-01-09,index,TSX,Neutral,Srong Buy
+2020-01-09,index,IXIC,Neutral,Srong Buy
+2020-01-09,index,NI225,Neutral,Sell
+2020-01-09,index,DAX,Sell,Srong Buy
+2020-01-09,index,DJI,Sell,Srong Buy
+2020-01-09,crypto,BNBUSD,Buy,Neutral
+2020-01-09,crypto,LTCUSD,Buy,Buy
+2020-01-09,crypto,ETHUSD,Buy,Neutral
+2020-01-09,crypto,XRPUSD,Buy,Neutral
+2020-01-09,crypto,BTCUSD,Buy,Srong Buy
+2020-01-09,crypto,IOTAUSD,Buy,Neutral
+2020-01-09,crypto,EOSUSD,Buy,Buy
+2020-01-09,crypto,DASHUSD,Buy,Buy
+2020-01-09,stock,AAPL,Buy,Srong Buy
+2020-01-09,stock,GOOG,Sell,Srong Buy
+2020-01-09,stock,MSFT,Sell,Srong Buy
+2020-01-09,stock,FB,Sell,Srong Buy
+2020-01-09,stock,JNJ,Buy,Srong Buy
+2020-01-09,stock,AMZN,Buy,Srong Buy
+2020-01-09,stock,JPM,Sell,Buy
+2020-01-09,stock,BABA,Buy,Srong Buy
+2020-01-10,crypto,EOSUSD,Buy,Buy
+2020-01-10,crypto,DASHUSD,Neutral,Buy
+2020-01-10,crypto,XRPUSD,Buy,Sell
+2020-01-10,crypto,BTCUSD,Buy,Buy
+2020-01-10,crypto,IOTAUSD,Neutral,Sell
+2020-01-10,crypto,BNBUSD,Neutral,Neutral
+2020-01-10,crypto,ETHUSD,Neutral,Neutral
+2020-01-10,crypto,LTCUSD,Neutral,Buy
+2020-01-10,stock,JNJ,Sell,Srong Buy
+2020-01-10,stock,FB,Buy,Srong Buy
+2020-01-10,stock,BABA,Sell,Srong Buy
+2020-01-10,stock,GOOG,Sell,Srong Buy
+2020-01-10,stock,AMZN,Neutral,Srong Buy
+2020-01-10,stock,JPM,Sell,Buy
+2020-01-10,stock,AAPL,Buy,Srong Buy
+2020-01-10,stock,MSFT,Neutral,Srong Buy
+2020-01-10,index,NIFTY,Sell,Srong Buy
+2020-01-10,index,SPX,Buy,Srong Buy
+2020-01-10,index,TSX,Buy,Srong Buy
+2020-01-10,index,NI225,Sell,Srong Buy
+2020-01-10,index,VIX,Sell,Srong Sell
+2020-01-10,index,DJI,Buy,Srong Buy
+2020-01-10,index,DAX,Buy,Srong Buy
+2020-01-10,index,IXIC,Buy,Srong Buy
+2020-01-11,crypto,BNBUSD,Buy,Buy
+2020-01-11,crypto,BTCUSD,Buy,Srong Buy
+2020-01-11,crypto,IOTAUSD,Buy,Buy
+2020-01-11,crypto,ETHUSD,Buy,Buy
+2020-01-11,crypto,LTCUSD,Buy,Buy
+2020-01-11,crypto,DASHUSD,Buy,Buy
+2020-01-11,crypto,XRPUSD,Buy,Buy
+2020-01-11,crypto,EOSUSD,Buy,Srong Buy
+2020-01-12,crypto,DASHUSD,Neutral,Srong Buy
+2020-01-12,crypto,BTCUSD,Buy,Srong Buy
+2020-01-12,crypto,LTCUSD,Sell,Buy
+2020-01-12,crypto,XRPUSD,Neutral,Buy
+2020-01-12,crypto,BNBUSD,Buy,Buy
+2020-01-12,crypto,IOTAUSD,Neutral,Buy
+2020-01-12,crypto,EOSUSD,Sell,Srong Buy
+2020-01-12,crypto,ETHUSD,Buy,Buy
+2020-01-13,crypto,LTCUSD,Buy,Srong Buy
+2020-01-13,crypto,BTCUSD,Buy,Srong Buy
+2020-01-13,crypto,BNBUSD,Buy,Buy
+2020-01-13,crypto,DASHUSD,Sell,Srong Buy
+2020-01-13,crypto,EOSUSD,Neutral,Srong Buy
+2020-01-13,crypto,IOTAUSD,Neutral,Buy
+2020-01-13,crypto,ETHUSD,Buy,Buy
+2020-01-13,crypto,XRPUSD,Neutral,Buy
+2020-01-13,stock,AMZN,Buy,Srong Buy
+2020-01-13,stock,JPM,Neutral,Buy
+2020-01-13,stock,AAPL,Buy,Srong Buy
+2020-01-13,stock,BABA,Sell,Srong Buy
+2020-01-13,stock,GOOG,Buy,Srong Buy
+2020-01-13,stock,MSFT,Buy,Srong Buy
+2020-01-13,stock,FB,Neutral,Srong Buy
+2020-01-13,stock,JNJ,Neutral,Srong Buy
+2020-01-13,index,VIX,Sell,Srong Sell
+2020-01-13,index,SPX,Neutral,Srong Buy
+2020-01-13,index,NIFTY,Neutral,Srong Buy
+2020-01-13,index,TSX,Buy,Srong Buy
+2020-01-13,index,NI225,Sell,Srong Buy
+2020-01-13,index,IXIC,Neutral,Srong Buy
+2020-01-13,index,DJI,Buy,Srong Buy
+2020-01-13,index,DAX,Buy,Srong Buy
+2020-01-14,stock,JNJ,Sell,Srong Buy
+2020-01-14,stock,MSFT,Neutral,Srong Buy
+2020-01-14,stock,JPM,Sell,Buy
+2020-01-14,stock,FB,Buy,Srong Buy
+2020-01-14,stock,AMZN,Neutral,Srong Buy
+2020-01-14,stock,GOOG,Sell,Srong Buy
+2020-01-14,stock,AAPL,Buy,Srong Buy
+2020-01-14,stock,BABA,Neutral,Srong Buy
+2020-01-14,crypto,BNBUSD,Buy,Buy
+2020-01-14,crypto,DASHUSD,Buy,Srong Buy
+2020-01-14,crypto,LTCUSD,Buy,Buy
+2020-01-14,crypto,ETHUSD,Buy,Buy
+2020-01-14,crypto,XRPUSD,Buy,Buy
+2020-01-14,crypto,IOTAUSD,Buy,Buy
+2020-01-14,crypto,EOSUSD,Neutral,Srong Buy
+2020-01-14,crypto,BTCUSD,Buy,Srong Buy
+2020-01-14,index,TSX,Neutral,Srong Buy
+2020-01-14,index,NI225,Sell,Srong Buy
+2020-01-14,index,DJI,Buy,Srong Buy
+2020-01-14,index,SPX,Neutral,Srong Buy
+2020-01-14,index,IXIC,Neutral,Srong Buy
+2020-01-14,index,DAX,Buy,Srong Buy
+2020-01-14,index,NIFTY,Sell,Srong Buy
+2020-01-14,index,VIX,Sell,Srong Sell
+2020-01-15,crypto,BNBUSD,Buy,Buy
+2020-01-15,crypto,BTCUSD,Buy,Srong Buy
+2020-01-15,crypto,EOSUSD,Sell,Srong Buy
+2020-01-15,crypto,XRPUSD,Buy,Srong Buy
+2020-01-15,crypto,LTCUSD,Neutral,Srong Buy
+2020-01-15,crypto,DASHUSD,Sell,Srong Buy
+2020-01-15,crypto,IOTAUSD,Neutral,Buy
+2020-01-15,crypto,ETHUSD,Buy,Srong Buy
+2020-01-15,stock,GOOG,Sell,Srong Buy
+2020-01-15,stock,JNJ,Sell,Srong Buy
+2020-01-15,stock,MSFT,Sell,Srong Buy
+2020-01-15,stock,FB,Sell,Srong Buy
+2020-01-15,stock,BABA,Buy,Srong Buy
+2020-01-15,stock,AMZN,Neutral,Srong Buy
+2020-01-15,stock,AAPL,Buy,Srong Buy
+2020-01-15,stock,JPM,Sell,Srong Buy
+2020-01-15,index,NIFTY,Neutral,Srong Buy
+2020-01-15,index,VIX,Sell,Srong Sell
+2020-01-15,index,DJI,Neutral,Srong Buy
+2020-01-15,index,SPX,Sell,Srong Buy
+2020-01-15,index,DAX,Buy,Srong Buy
+2020-01-15,index,TSX,Neutral,Srong Buy
+2020-01-15,index,NI225,Sell,Srong Buy
+2020-01-15,index,IXIC,Sell,Srong Buy
+2020-01-16,crypto,DASHUSD,Neutral,Srong Buy
+2020-01-16,crypto,LTCUSD,Sell,Srong Buy
+2020-01-16,crypto,ETHUSD,Neutral,Srong Buy
+2020-01-16,crypto,IOTAUSD,Neutral,Srong Buy
+2020-01-16,crypto,BNBUSD,Sell,Srong Buy
+2020-01-16,crypto,XRPUSD,Buy,Srong Buy
+2020-01-16,crypto,BTCUSD,Sell,Srong Buy
+2020-01-16,crypto,EOSUSD,Neutral,Srong Buy
+2020-01-16,stock,JPM,Neutral,Neutral
+2020-01-16,stock,JNJ,Sell,Srong Buy
+2020-01-16,stock,GOOG,Sell,Srong Buy
+2020-01-16,stock,AMZN,Neutral,Srong Buy
+2020-01-16,stock,AAPL,Buy,Srong Buy
+2020-01-16,stock,BABA,Buy,Srong Buy
+2020-01-16,stock,MSFT,Buy,Srong Buy
+2020-01-16,stock,FB,Neutral,Srong Buy
+2020-01-16,index,SPX,Buy,Srong Buy
+2020-01-16,index,VIX,Sell,Srong Sell
+2020-01-16,index,NI225,Neutral,Srong Buy
+2020-01-16,index,DAX,Sell,Srong Buy
+2020-01-16,index,TSX,Neutral,Srong Buy
+2020-01-16,index,IXIC,Buy,Srong Buy
+2020-01-16,index,NIFTY,Buy,Srong Buy
+2020-01-16,index,DJI,Buy,Srong Buy
+2020-01-17,stock,JPM,Buy,Buy
+2020-01-17,stock,AMZN,Buy,Srong Buy
+2020-01-17,stock,AAPL,Buy,Srong Buy
+2020-01-17,stock,MSFT,Neutral,Srong Buy
+2020-01-17,stock,JNJ,Sell,Srong Buy
+2020-01-17,stock,GOOG,Buy,Srong Buy
+2020-01-17,stock,BABA,Neutral,Srong Buy
+2020-01-17,stock,FB,Buy,Srong Buy
+2020-01-17,crypto,ETHUSD,Buy,Srong Buy
+2020-01-17,crypto,XRPUSD,Buy,Buy
+2020-01-17,crypto,LTCUSD,Buy,Srong Buy
+2020-01-17,crypto,BTCUSD,Buy,Srong Buy
+2020-01-17,crypto,EOSUSD,Buy,Srong Buy
+2020-01-17,crypto,DASHUSD,Buy,Srong Buy
+2020-01-17,crypto,IOTAUSD,Neutral,Srong Buy
+2020-01-17,crypto,BNBUSD,Neutral,Srong Buy
+2020-01-17,index,DAX,Buy,Srong Buy
+2020-01-17,index,DJI,Buy,Srong Buy
+2020-01-17,index,NI225,Buy,Srong Buy
+2020-01-17,index,TSX,Buy,Srong Buy
+2020-01-17,index,IXIC,Buy,Srong Buy
+2020-01-17,index,SPX,Neutral,Srong Buy
+2020-01-17,index,VIX,Sell,Srong Sell
+2020-01-17,index,NIFTY,Neutral,Srong Buy
+2020-01-18,crypto,BNBUSD,Neutral,Srong Buy
+2020-01-18,crypto,ETHUSD,Neutral,Srong Buy
+2020-01-18,crypto,LTCUSD,Neutral,Srong Buy
+2020-01-18,crypto,EOSUSD,Sell,Srong Buy
+2020-01-18,crypto,BTCUSD,Buy,Srong Buy
+2020-01-18,crypto,DASHUSD,Buy,Srong Buy
+2020-01-18,crypto,IOTAUSD,Sell,Srong Buy
+2020-01-18,crypto,XRPUSD,Buy,Srong Buy
+2020-01-19,crypto,BNBUSD,Sell,Srong Buy
+2020-01-19,crypto,XRPUSD,Neutral,Srong Buy
+2020-01-19,crypto,LTCUSD,Sell,Srong Buy
+2020-01-19,crypto,DASHUSD,Buy,Srong Buy
+2020-01-19,crypto,IOTAUSD,Sell,Srong Buy
+2020-01-19,crypto,EOSUSD,Sell,Srong Buy
+2020-01-19,crypto,ETHUSD,Neutral,Srong Buy
+2020-01-19,crypto,BTCUSD,Sell,Srong Buy
+2020-01-20,crypto,BNBUSD,Buy,Srong Buy
+2020-01-20,crypto,IOTAUSD,Sell,Srong Buy
+2020-01-20,crypto,LTCUSD,Buy,Srong Buy
+2020-01-20,crypto,BTCUSD,Buy,Srong Buy
+2020-01-20,crypto,ETHUSD,Buy,Srong Buy
+2020-01-20,crypto,XRPUSD,Buy,Buy
+2020-01-20,crypto,EOSUSD,Buy,Srong Buy
+2020-01-20,crypto,DASHUSD,Buy,Srong Buy
+2020-01-21,stock,AAPL,Sell,Srong Buy
+2020-01-21,stock,BABA,Sell,Srong Buy
+2020-01-21,stock,JNJ,Neutral,Srong Buy
+2020-01-21,stock,AMZN,Sell,Srong Buy
+2020-01-21,stock,FB,Sell,Srong Buy
+2020-01-21,stock,GOOG,Neutral,Srong Buy
+2020-01-21,stock,MSFT,Sell,Srong Buy
+2020-01-21,stock,JPM,Neutral,Srong Buy
+2020-01-21,crypto,ETHUSD,Buy,Srong Buy
+2020-01-21,crypto,EOSUSD,Buy,Srong Buy
+2020-01-21,crypto,LTCUSD,Buy,Srong Buy
+2020-01-21,crypto,IOTAUSD,Buy,Srong Buy
+2020-01-21,crypto,BTCUSD,Buy,Srong Buy
+2020-01-21,crypto,BNBUSD,Buy,Srong Buy
+2020-01-21,crypto,XRPUSD,Buy,Buy
+2020-01-21,crypto,DASHUSD,Neutral,Srong Buy
+2020-01-21,index,NIFTY,Neutral,Buy
+2020-01-21,index,IXIC,Sell,Srong Buy
+2020-01-21,index,TSX,Buy,Srong Buy
+2020-01-21,index,VIX,Sell,Srong Sell
+2020-01-21,index,SPX,Neutral,Srong Buy
+2020-01-21,index,DJI,Sell,Srong Buy
+2020-01-21,index,DAX,Buy,Srong Buy
+2020-01-21,index,NI225,Buy,Srong Buy
+2020-01-22,index,VIX,Neutral,Sell
+2020-01-22,index,NI225,Sell,Srong Buy
+2020-01-22,index,DAX,Buy,Srong Buy
+2020-01-22,index,TSX,Buy,Srong Buy
+2020-01-22,index,IXIC,Buy,Srong Buy
+2020-01-22,index,SPX,Buy,Srong Buy
+2020-01-22,index,NIFTY,Neutral,Sell
+2020-01-22,index,DJI,Buy,Srong Buy
+2020-01-22,crypto,LTCUSD,Neutral,Srong Buy
+2020-01-22,crypto,EOSUSD,Neutral,Srong Buy
+2020-01-22,crypto,DASHUSD,Buy,Srong Buy
+2020-01-22,crypto,BNBUSD,Neutral,Srong Buy
+2020-01-22,crypto,IOTAUSD,Neutral,Srong Buy
+2020-01-22,crypto,ETHUSD,Neutral,Srong Buy
+2020-01-22,crypto,XRPUSD,Neutral,Buy
+2020-01-22,crypto,BTCUSD,Neutral,Srong Buy
+2020-01-22,stock,AMZN,Neutral,Srong Buy
+2020-01-22,stock,FB,Buy,Srong Buy
+2020-01-22,stock,JPM,Buy,Neutral
+2020-01-22,stock,GOOG,Buy,Srong Buy
+2020-01-22,stock,JNJ,Sell,Srong Buy
+2020-01-22,stock,MSFT,Buy,Srong Buy
+2020-01-22,stock,AAPL,Buy,Srong Buy
+2020-01-22,stock,BABA,Neutral,Srong Buy
+2020-01-23,crypto,ETHUSD,Buy,Srong Buy
+2020-01-23,crypto,IOTAUSD,Buy,Srong Buy
+2020-01-23,crypto,XRPUSD,Buy,Buy
+2020-01-23,crypto,EOSUSD,Buy,Srong Buy
+2020-01-23,crypto,BNBUSD,Buy,Srong Buy
+2020-01-23,crypto,DASHUSD,Buy,Srong Buy
+2020-01-23,crypto,LTCUSD,Buy,Srong Buy
+2020-01-23,crypto,BTCUSD,Buy,Srong Buy
+2020-01-23,index,IXIC,Sell,Srong Buy
+2020-01-23,index,VIX,Sell,Sell
+2020-01-23,index,SPX,Sell,Srong Buy
+2020-01-23,index,DAX,Neutral,Srong Buy
+2020-01-23,index,DJI,Sell,Srong Buy
+2020-01-23,index,NI225,Buy,Srong Buy
+2020-01-23,index,NIFTY,Neutral,Sell
+2020-01-23,index,TSX,Sell,Srong Buy
+2020-01-23,stock,AAPL,Sell,Srong Buy
+2020-01-23,stock,BABA,Buy,Srong Buy
+2020-01-23,stock,JNJ,Buy,Srong Buy
+2020-01-23,stock,GOOG,Sell,Srong Buy
+2020-01-23,stock,JPM,Sell,Neutral
+2020-01-23,stock,AMZN,Buy,Srong Buy
+2020-01-23,stock,FB,Neutral,Srong Buy
+2020-01-23,stock,MSFT,Sell,Srong Buy
+2020-01-24,stock,FB,Buy,Srong Buy
+2020-01-24,stock,JPM,Sell,Neutral
+2020-01-24,stock,AAPL,Neutral,Srong Buy
+2020-01-24,stock,BABA,Neutral,Buy
+2020-01-24,stock,MSFT,Buy,Srong Buy
+2020-01-24,stock,GOOG,Buy,Srong Buy
+2020-01-24,stock,AMZN,Sell,Srong Buy
+2020-01-24,stock,JNJ,Neutral,Srong Buy
+2020-01-24,index,TSX,Buy,Srong Buy
+2020-01-24,index,DJI,Buy,Srong Buy
+2020-01-24,index,IXIC,Neutral,Srong Buy
+2020-01-24,index,SPX,Neutral,Srong Buy
+2020-01-24,index,VIX,Neutral,Sell
+2020-01-24,index,NIFTY,Buy,Buy
+2020-01-24,index,NI225,Sell,Buy
+2020-01-24,index,DAX,Neutral,Buy
+2020-01-24,crypto,XRPUSD,Buy,Neutral
+2020-01-24,crypto,BTCUSD,Neutral,Buy
+2020-01-24,crypto,ETHUSD,Buy,Buy
+2020-01-24,crypto,LTCUSD,Buy,Buy
+2020-01-24,crypto,IOTAUSD,Buy,Buy
+2020-01-24,crypto,DASHUSD,Buy,Srong Buy
+2020-01-24,crypto,EOSUSD,Neutral,Srong Buy
+2020-01-24,crypto,BNBUSD,Buy,Buy
+2020-01-25,crypto,XRPUSD,Neutral,Sell
+2020-01-25,crypto,ETHUSD,Buy,Buy
+2020-01-25,crypto,LTCUSD,Neutral,Buy
+2020-01-25,crypto,IOTAUSD,Buy,Buy
+2020-01-25,crypto,EOSUSD,Neutral,Srong Buy
+2020-01-25,crypto,BTCUSD,Neutral,Buy
+2020-01-25,crypto,DASHUSD,Buy,Srong Buy
+2020-01-25,crypto,BNBUSD,Buy,Buy
+2020-01-26,crypto,XRPUSD,Neutral,Srong Sell
+2020-01-26,crypto,BTCUSD,Buy,Buy
+2020-01-26,crypto,EOSUSD,Buy,Srong Buy
+2020-01-26,crypto,DASHUSD,Buy,Srong Buy
+2020-01-26,crypto,LTCUSD,Buy,Buy
+2020-01-26,crypto,BNBUSD,Buy,Buy
+2020-01-26,crypto,ETHUSD,Buy,Buy
+2020-01-26,crypto,IOTAUSD,Buy,Buy
+2020-01-27,crypto,IOTAUSD,Buy,Srong Buy
+2020-01-27,crypto,BNBUSD,Sell,Srong Buy
+2020-01-27,crypto,EOSUSD,Sell,Srong Buy
+2020-01-27,crypto,XRPUSD,Sell,Buy
+2020-01-27,crypto,ETHUSD,Sell,Srong Buy
+2020-01-27,crypto,BTCUSD,Sell,Srong Buy
+2020-01-27,crypto,LTCUSD,Sell,Srong Buy
+2020-01-27,crypto,DASHUSD,Sell,Srong Buy
+2020-01-27,stock,AAPL,Sell,Srong Buy
+2020-01-27,stock,GOOG,Buy,Srong Buy
+2020-01-27,stock,BABA,Sell,Sell
+2020-01-27,stock,JPM,Sell,Sell
+2020-01-27,stock,FB,Neutral,Srong Buy
+2020-01-27,stock,AMZN,Neutral,Buy
+2020-01-27,stock,JNJ,Neutral,Srong Buy
+2020-01-27,stock,MSFT,Buy,Srong Buy
+2020-01-27,index,DAX,Neutral,Srong Buy
+2020-01-27,index,TSX,Buy,Srong Buy
+2020-01-27,index,NIFTY,Sell,Srong Buy
+2020-01-27,index,VIX,Neutral,Srong Buy
+2020-01-27,index,NI225,Neutral,Buy
+2020-01-27,index,SPX,Neutral,Srong Buy
+2020-01-27,index,DJI,Neutral,Srong Buy
+2020-01-27,index,IXIC,Neutral,Srong Buy
+2020-01-28,stock,BABA,Buy,Sell
+2020-01-28,stock,GOOG,Buy,Srong Buy
+2020-01-28,stock,AMZN,Sell,Sell
+2020-01-28,stock,AAPL,Neutral,Srong Buy
+2020-01-28,stock,FB,Sell,Buy
+2020-01-28,stock,JPM,Sell,Sell
+2020-01-28,stock,JNJ,Sell,Srong Buy
+2020-01-28,stock,MSFT,Neutral,Buy
+2020-01-28,index,TSX,Buy,Srong Buy
+2020-01-28,index,IXIC,Sell,Buy
+2020-01-28,index,NI225,Neutral,Sell
+2020-01-28,index,DJI,Sell,Sell
+2020-01-28,index,SPX,Sell,Sell
+2020-01-28,index,DAX,Neutral,Sell
+2020-01-28,index,VIX,Neutral,Srong Buy
+2020-01-28,index,NIFTY,Sell,Sell
+2020-01-28,crypto,EOSUSD,Sell,Srong Buy
+2020-01-28,crypto,IOTAUSD,Buy,Srong Buy
+2020-01-28,crypto,BTCUSD,Sell,Srong Buy
+2020-01-28,crypto,DASHUSD,Sell,Srong Buy
+2020-01-28,crypto,ETHUSD,Buy,Srong Buy
+2020-01-28,crypto,BNBUSD,Buy,Srong Buy
+2020-01-28,crypto,XRPUSD,Buy,Buy
+2020-01-28,crypto,LTCUSD,Buy,Srong Buy
+2020-01-29,stock,JNJ,Sell,Srong Buy
+2020-01-29,stock,JPM,Sell,Sell
+2020-01-29,stock,FB,Buy,Srong Buy
+2020-01-29,stock,GOOG,Sell,Srong Buy
+2020-01-29,stock,MSFT,Sell,Srong Buy
+2020-01-29,stock,AAPL,Sell,Srong Buy
+2020-01-29,stock,AMZN,Sell,Buy
+2020-01-29,stock,BABA,Buy,Neutral
+2020-01-29,index,SPX,Neutral,Srong Buy
+2020-01-29,index,NI225,Sell,Sell
+2020-01-29,index,NIFTY,Sell,Sell
+2020-01-29,index,VIX,Buy,Srong Buy
+2020-01-29,index,TSX,Buy,Srong Buy
+2020-01-29,index,DAX,Sell,Sell
+2020-01-29,index,IXIC,Neutral,Srong Buy
+2020-01-29,index,DJI,Sell,Buy
+2020-01-29,crypto,LTCUSD,Sell,Srong Buy
+2020-01-29,crypto,ETHUSD,Buy,Srong Buy
+2020-01-29,crypto,EOSUSD,Neutral,Srong Buy
+2020-01-29,crypto,IOTAUSD,Sell,Srong Buy
+2020-01-29,crypto,DASHUSD,Sell,Srong Buy
+2020-01-29,crypto,BTCUSD,Sell,Srong Buy
+2020-01-29,crypto,XRPUSD,Sell,Srong Buy
+2020-01-29,crypto,BNBUSD,Sell,Srong Buy
+2020-01-30,crypto,ETHUSD,Sell,Srong Buy
+2020-01-30,crypto,EOSUSD,Neutral,Srong Buy
+2020-01-30,crypto,DASHUSD,Neutral,Srong Buy
+2020-01-30,crypto,BNBUSD,Sell,Srong Buy
+2020-01-30,crypto,LTCUSD,Sell,Srong Buy
+2020-01-30,crypto,XRPUSD,Sell,Srong Buy
+2020-01-30,crypto,IOTAUSD,Neutral,Srong Buy
+2020-01-30,crypto,BTCUSD,Sell,Srong Buy
+2020-01-30,index,NI225,Sell,Sell
+2020-01-30,index,IXIC,Sell,Srong Buy
+2020-01-30,index,TSX,Neutral,Srong Buy
+2020-01-30,index,DAX,Sell,Neutral
+2020-01-30,index,VIX,Neutral,Srong Buy
+2020-01-30,index,DJI,Buy,Buy
+2020-01-30,index,SPX,Sell,Buy
+2020-01-30,index,NIFTY,Sell,Sell
+2020-01-30,stock,BABA,Sell,Neutral
+2020-01-30,stock,JNJ,Neutral,Srong Buy
+2020-01-30,stock,AAPL,Sell,Srong Buy
+2020-01-30,stock,JPM,Buy,Sell
+2020-01-30,stock,GOOG,Sell,Srong Buy
+2020-01-30,stock,FB,Sell,Srong Buy
+2020-01-30,stock,MSFT,Sell,Srong Buy
+2020-01-30,stock,AMZN,Neutral,Buy
+2020-01-31,index,NIFTY,Sell,Sell
+2020-01-31,index,VIX,Buy,Srong Buy
+2020-01-31,index,DAX,Sell,Sell
+2020-01-31,index,DJI,Sell,Buy
+2020-01-31,index,TSX,Neutral,Srong Buy
+2020-01-31,index,NI225,Sell,Sell
+2020-01-31,index,SPX,Sell,Srong Buy
+2020-01-31,index,IXIC,Sell,Srong Buy
+2020-01-31,stock,AAPL,Sell,Srong Buy
+2020-01-31,stock,GOOG,Neutral,Srong Buy
+2020-01-31,stock,JNJ,Buy,Srong Buy
+2020-01-31,stock,MSFT,Sell,Srong Buy
+2020-01-31,stock,BABA,Sell,Neutral
+2020-01-31,stock,AMZN,Sell,Srong Buy
+2020-01-31,stock,JPM,Sell,Buy
+2020-01-31,stock,FB,Sell,Sell
+2020-01-31,crypto,ETHUSD,Neutral,Srong Buy
+2020-01-31,crypto,BTCUSD,Buy,Srong Buy
+2020-01-31,crypto,EOSUSD,Neutral,Srong Buy
+2020-01-31,crypto,DASHUSD,Buy,Srong Buy
+2020-01-31,crypto,XRPUSD,Buy,Srong Buy
+2020-01-31,crypto,IOTAUSD,Buy,Srong Buy
+2020-01-31,crypto,BNBUSD,Buy,Srong Buy
+2020-01-31,crypto,LTCUSD,Neutral,Srong Buy
+2020-02-01,crypto,LTCUSD,Sell,Srong Buy
+2020-02-01,crypto,IOTAUSD,Sell,Srong Buy
+2020-02-01,crypto,BTCUSD,Sell,Srong Buy
+2020-02-01,crypto,XRPUSD,Buy,Srong Buy
+2020-02-01,crypto,EOSUSD,Buy,Srong Buy
+2020-02-01,crypto,BNBUSD,Buy,Srong Buy
+2020-02-01,crypto,DASHUSD,Buy,Srong Buy
+2020-02-01,crypto,ETHUSD,Buy,Srong Buy
+2020-02-02,crypto,BNBUSD,Sell,Srong Buy
+2020-02-02,crypto,IOTAUSD,Sell,Srong Buy
+2020-02-02,crypto,EOSUSD,Neutral,Srong Buy
+2020-02-02,crypto,LTCUSD,Neutral,Srong Buy
+2020-02-02,crypto,BTCUSD,Neutral,Srong Buy
+2020-02-02,crypto,XRPUSD,Buy,Srong Buy
+2020-02-02,crypto,ETHUSD,Buy,Srong Buy
+2020-02-02,crypto,DASHUSD,Sell,Srong Buy
+2020-02-03,crypto,ETHUSD,Sell,Srong Buy
+2020-02-03,crypto,DASHUSD,Sell,Srong Buy
+2020-02-03,crypto,LTCUSD,Sell,Srong Buy
+2020-02-03,crypto,EOSUSD,Neutral,Srong Buy
+2020-02-03,crypto,BNBUSD,Neutral,Srong Buy
+2020-02-03,crypto,XRPUSD,Buy,Srong Buy
+2020-02-03,crypto,IOTAUSD,Sell,Srong Buy
+2020-02-03,crypto,BTCUSD,Sell,Srong Buy
+2020-02-03,stock,FB,Neutral,Sell
+2020-02-03,stock,AMZN,Neutral,Srong Buy
+2020-02-03,stock,JNJ,Sell,Srong Buy
+2020-02-03,stock,JPM,Sell,Sell
+2020-02-03,stock,GOOG,Neutral,Buy
+2020-02-03,stock,BABA,Sell,Sell
+2020-02-03,stock,AAPL,Neutral,Buy
+2020-02-03,stock,MSFT,Buy,Srong Buy
+2020-02-03,index,NI225,Sell,Sell
+2020-02-03,index,SPX,Neutral,Sell
+2020-02-03,index,VIX,Buy,Srong Buy
+2020-02-03,index,IXIC,Sell,Buy
+2020-02-03,index,TSX,Sell,Neutral
+2020-02-03,index,NIFTY,Sell,Srong Sell
+2020-02-03,index,DJI,Sell,Sell
+2020-02-03,index,DAX,Sell,Sell
+2020-02-04,stock,JPM,Sell,Sell
+2020-02-04,stock,BABA,Sell,Buy
+2020-02-04,stock,GOOG,Sell,Srong Buy
+2020-02-04,stock,FB,Sell,Sell
+2020-02-04,stock,MSFT,Neutral,Srong Buy
+2020-02-04,stock,AAPL,Sell,Buy
+2020-02-04,stock,AMZN,Neutral,Srong Buy
+2020-02-04,stock,JNJ,Sell,Srong Buy
+2020-02-04,index,NI225,Sell,Sell
+2020-02-04,index,VIX,Buy,Srong Buy
+2020-02-04,index,DJI,Sell,Sell
+2020-02-04,index,TSX,Sell,Buy
+2020-02-04,index,IXIC,Neutral,Srong Buy
+2020-02-04,index,SPX,Sell,Neutral
+2020-02-04,index,DAX,Sell,Sell
+2020-02-04,index,NIFTY,Sell,Srong Sell
+2020-02-04,crypto,IOTAUSD,Sell,Srong Buy
+2020-02-04,crypto,DASHUSD,Sell,Srong Buy
+2020-02-04,crypto,BNBUSD,Sell,Srong Buy
+2020-02-04,crypto,BTCUSD,Buy,Srong Buy
+2020-02-04,crypto,XRPUSD,Neutral,Srong Buy
+2020-02-04,crypto,LTCUSD,Sell,Srong Buy
+2020-02-04,crypto,ETHUSD,Sell,Srong Buy
+2020-02-04,crypto,EOSUSD,Buy,Srong Buy
+2020-02-05,index,NIFTY,Sell,Sell
+2020-02-05,index,DJI,Sell,Srong Buy
+2020-02-05,index,VIX,Buy,Srong Buy
+2020-02-05,index,SPX,Neutral,Srong Buy
+2020-02-05,index,IXIC,Neutral,Srong Buy
+2020-02-05,index,TSX,Sell,Srong Buy
+2020-02-05,index,NI225,Sell,Sell
+2020-02-05,index,DAX,Sell,Buy
+2020-02-05,crypto,ETHUSD,Sell,Srong Buy
+2020-02-05,crypto,IOTAUSD,Sell,Srong Buy
+2020-02-05,crypto,DASHUSD,Neutral,Buy
+2020-02-05,crypto,XRPUSD,Buy,Srong Buy
+2020-02-05,crypto,EOSUSD,Sell,Srong Buy
+2020-02-05,crypto,LTCUSD,Buy,Srong Buy
+2020-02-05,crypto,BNBUSD,Neutral,Srong Buy
+2020-02-05,crypto,BTCUSD,Neutral,Srong Buy
+2020-02-05,stock,MSFT,Neutral,Srong Buy
+2020-02-05,stock,AAPL,Neutral,Srong Buy
+2020-02-05,stock,FB,Sell,Neutral
+2020-02-05,stock,BABA,Sell,Srong Buy
+2020-02-05,stock,GOOG,Neutral,Buy
+2020-02-05,stock,JPM,Sell,Buy
+2020-02-05,stock,AMZN,Sell,Srong Buy
+2020-02-05,stock,JNJ,Sell,Srong Buy
+2020-02-06,crypto,XRPUSD,Neutral,Srong Buy
+2020-02-06,crypto,LTCUSD,Sell,Srong Buy
+2020-02-06,crypto,DASHUSD,Sell,Srong Buy
+2020-02-06,crypto,BTCUSD,Neutral,Srong Buy
+2020-02-06,crypto,ETHUSD,Neutral,Srong Buy
+2020-02-06,crypto,EOSUSD,Sell,Srong Buy
+2020-02-06,crypto,IOTAUSD,Buy,Srong Buy
+2020-02-06,crypto,BNBUSD,Buy,Srong Buy
+2020-02-06,index,IXIC,Sell,Srong Buy
+2020-02-06,index,NI225,Sell,Buy
+2020-02-06,index,NIFTY,Sell,Buy
+2020-02-06,index,SPX,Sell,Srong Buy
+2020-02-06,index,TSX,Sell,Srong Buy
+2020-02-06,index,DJI,Sell,Srong Buy
+2020-02-06,index,DAX,Sell,Srong Buy
+2020-02-06,index,VIX,Buy,Buy
+2020-02-06,stock,JNJ,Neutral,Srong Buy
+2020-02-06,stock,AAPL,Sell,Srong Buy
+2020-02-06,stock,JPM,Sell,Srong Buy
+2020-02-06,stock,MSFT,Sell,Srong Buy
+2020-02-06,stock,BABA,Neutral,Srong Buy
+2020-02-06,stock,AMZN,Buy,Srong Buy
+2020-02-06,stock,FB,Sell,Neutral
+2020-02-06,stock,GOOG,Buy,Buy
+2020-02-07,crypto,XRPUSD,Sell,Srong Buy
+2020-02-07,crypto,LTCUSD,Sell,Srong Buy
+2020-02-07,crypto,EOSUSD,Buy,Srong Buy
+2020-02-07,crypto,DASHUSD,Neutral,Srong Buy
+2020-02-07,crypto,BTCUSD,Neutral,Srong Buy
+2020-02-07,crypto,ETHUSD,Sell,Srong Buy
+2020-02-07,crypto,IOTAUSD,Buy,Srong Buy
+2020-02-07,crypto,BNBUSD,Neutral,Srong Buy
+2020-02-07,stock,AAPL,Sell,Srong Buy
+2020-02-07,stock,FB,Sell,Neutral
+2020-02-07,stock,GOOG,Neutral,Srong Buy
+2020-02-07,stock,MSFT,Neutral,Srong Buy
+2020-02-07,stock,JNJ,Buy,Srong Buy
+2020-02-07,stock,JPM,Neutral,Srong Buy
+2020-02-07,stock,AMZN,Sell,Srong Buy
+2020-02-07,stock,BABA,Sell,Srong Buy
+2020-02-07,index,SPX,Sell,Srong Buy
+2020-02-07,index,VIX,Buy,Buy
+2020-02-07,index,NIFTY,Neutral,Srong Buy
+2020-02-07,index,DJI,Buy,Srong Buy
+2020-02-07,index,NI225,Sell,Srong Buy
+2020-02-07,index,IXIC,Buy,Srong Buy
+2020-02-07,index,TSX,Buy,Srong Buy
+2020-02-07,index,DAX,Neutral,Srong Buy
+2020-02-08,crypto,IOTAUSD,Buy,Srong Buy
+2020-02-08,crypto,BTCUSD,Buy,Srong Buy
+2020-02-08,crypto,BNBUSD,Sell,Srong Buy
+2020-02-08,crypto,ETHUSD,Sell,Srong Buy
+2020-02-08,crypto,XRPUSD,Neutral,Srong Buy
+2020-02-08,crypto,EOSUSD,Buy,Srong Buy
+2020-02-08,crypto,LTCUSD,Neutral,Srong Buy
+2020-02-08,crypto,DASHUSD,Neutral,Srong Buy
+2020-02-09,crypto,DASHUSD,Sell,Srong Buy
+2020-02-09,crypto,XRPUSD,Sell,Srong Buy
+2020-02-09,crypto,ETHUSD,Sell,Srong Buy
+2020-02-09,crypto,BNBUSD,Buy,Srong Buy
+2020-02-09,crypto,BTCUSD,Neutral,Srong Buy
+2020-02-09,crypto,LTCUSD,Sell,Srong Buy
+2020-02-09,crypto,EOSUSD,Neutral,Srong Buy
+2020-02-09,crypto,IOTAUSD,Buy,Srong Buy
+2020-02-10,stock,JNJ,Buy,Srong Buy
+2020-02-10,stock,BABA,Sell,Buy
+2020-02-10,stock,GOOG,Sell,Srong Buy
+2020-02-10,stock,MSFT,Sell,Srong Buy
+2020-02-10,stock,FB,Neutral,Buy
+2020-02-10,stock,AMZN,Sell,Srong Buy
+2020-02-10,stock,JPM,Sell,Srong Buy
+2020-02-10,stock,AAPL,Neutral,Srong Buy
+2020-02-10,index,VIX,Buy,Srong Buy
+2020-02-10,index,NI225,Buy,Srong Buy
+2020-02-10,index,TSX,Buy,Srong Buy
+2020-02-10,index,SPX,Neutral,Srong Buy
+2020-02-10,index,DAX,Buy,Srong Buy
+2020-02-10,index,IXIC,Sell,Srong Buy
+2020-02-10,index,DJI,Buy,Srong Buy
+2020-02-10,index,NIFTY,Sell,Buy
+2020-02-10,crypto,BNBUSD,Sell,Srong Buy
+2020-02-10,crypto,DASHUSD,Sell,Srong Buy
+2020-02-10,crypto,ETHUSD,Neutral,Srong Buy
+2020-02-10,crypto,EOSUSD,Buy,Srong Buy
+2020-02-10,crypto,BTCUSD,Buy,Srong Buy
+2020-02-10,crypto,LTCUSD,Neutral,Srong Buy
+2020-02-10,crypto,XRPUSD,Buy,Srong Buy
+2020-02-10,crypto,IOTAUSD,Sell,Srong Buy
+2020-02-11,crypto,ETHUSD,Neutral,Srong Buy
+2020-02-11,crypto,DASHUSD,Sell,Srong Buy
+2020-02-11,crypto,EOSUSD,Sell,Srong Buy
+2020-02-11,crypto,LTCUSD,Buy,Srong Buy
+2020-02-11,crypto,BNBUSD,Sell,Srong Buy
+2020-02-11,crypto,IOTAUSD,Neutral,Srong Buy
+2020-02-11,crypto,XRPUSD,Buy,Srong Buy
+2020-02-11,crypto,BTCUSD,Buy,Srong Buy
+2020-02-11,stock,GOOG,Sell,Srong Buy
+2020-02-11,stock,AAPL,Sell,Srong Buy
+2020-02-11,stock,BABA,Sell,Buy
+2020-02-11,stock,AMZN,Neutral,Srong Buy
+2020-02-11,stock,FB,Sell,Srong Buy
+2020-02-11,stock,JNJ,Buy,Srong Buy
+2020-02-11,stock,JPM,Buy,Srong Buy
+2020-02-11,stock,MSFT,Neutral,Srong Buy
+2020-02-11,index,DAX,Buy,Srong Buy
+2020-02-11,index,NI225,Neutral,Srong Buy
+2020-02-11,index,IXIC,Buy,Srong Buy
+2020-02-11,index,DJI,Buy,Srong Buy
+2020-02-11,index,SPX,Buy,Srong Buy
+2020-02-11,index,VIX,Buy,Buy
+2020-02-11,index,TSX,Buy,Srong Buy
+2020-02-11,index,NIFTY,Buy,Sell
+2020-02-12,crypto,ETHUSD,Neutral,Srong Buy
+2020-02-12,crypto,LTCUSD,Sell,Srong Buy
+2020-02-12,crypto,XRPUSD,Neutral,Srong Buy
+2020-02-12,crypto,DASHUSD,Sell,Srong Buy
+2020-02-12,crypto,EOSUSD,Neutral,Srong Buy
+2020-02-12,crypto,IOTAUSD,Sell,Srong Buy
+2020-02-12,crypto,BTCUSD,Neutral,Srong Buy
+2020-02-12,crypto,BNBUSD,Sell,Srong Buy
+2020-02-12,index,NI225,Neutral,Srong Buy
+2020-02-12,index,TSX,Buy,Srong Buy
+2020-02-12,index,SPX,Neutral,Srong Buy
+2020-02-12,index,VIX,Sell,Srong Buy
+2020-02-12,index,NIFTY,Sell,Buy
+2020-02-12,index,IXIC,Neutral,Srong Buy
+2020-02-12,index,DJI,Buy,Srong Buy
+2020-02-12,index,DAX,Buy,Srong Buy
+2020-02-12,stock,MSFT,Neutral,Srong Buy
+2020-02-12,stock,FB,Sell,Sell
+2020-02-12,stock,JPM,Buy,Srong Buy
+2020-02-12,stock,AAPL,Neutral,Srong Buy
+2020-02-12,stock,AMZN,Neutral,Srong Buy
+2020-02-12,stock,GOOG,Buy,Srong Buy
+2020-02-12,stock,BABA,Buy,Srong Buy
+2020-02-12,stock,JNJ,Neutral,Srong Buy
+2020-02-13,crypto,EOSUSD,Sell,Srong Buy
+2020-02-13,crypto,BTCUSD,Sell,Srong Buy
+2020-02-13,crypto,IOTAUSD,Sell,Srong Buy
+2020-02-13,crypto,LTCUSD,Neutral,Srong Buy
+2020-02-13,crypto,XRPUSD,Sell,Srong Buy
+2020-02-13,crypto,BNBUSD,Sell,Srong Buy
+2020-02-13,crypto,DASHUSD,Sell,Srong Buy
+2020-02-13,crypto,ETHUSD,Sell,Srong Buy
+2020-02-13,index,VIX,Neutral,Srong Sell
+2020-02-13,index,NI225,Buy,Srong Buy
+2020-02-13,index,TSX,Buy,Srong Buy
+2020-02-13,index,DJI,Buy,Srong Buy
+2020-02-13,index,DAX,Buy,Srong Buy
+2020-02-13,index,IXIC,Neutral,Srong Buy
+2020-02-13,index,NIFTY,Neutral,Srong Buy
+2020-02-13,index,SPX,Buy,Srong Buy
+2020-02-13,stock,FB,Neutral,Buy
+2020-02-13,stock,JNJ,Neutral,Srong Buy
+2020-02-13,stock,GOOG,Buy,Srong Buy
+2020-02-13,stock,AAPL,Sell,Srong Buy
+2020-02-13,stock,JPM,Neutral,Srong Buy
+2020-02-13,stock,AMZN,Sell,Srong Buy
+2020-02-13,stock,MSFT,Neutral,Srong Buy
+2020-02-13,stock,BABA,Neutral,Srong Buy
+2020-02-14,crypto,DASHUSD,Sell,Srong Buy
+2020-02-14,crypto,EOSUSD,Buy,Srong Buy
+2020-02-14,crypto,BTCUSD,Buy,Srong Buy
+2020-02-14,crypto,XRPUSD,Sell,Srong Buy
+2020-02-14,crypto,ETHUSD,Buy,Srong Buy
+2020-02-14,crypto,IOTAUSD,Neutral,Srong Buy
+2020-02-14,crypto,LTCUSD,Buy,Srong Buy
+2020-02-14,crypto,BNBUSD,Buy,Srong Buy
+2020-02-14,index,NI225,Buy,Srong Buy
+2020-02-14,index,IXIC,Neutral,Srong Buy
+2020-02-14,index,DAX,Neutral,Srong Buy
+2020-02-14,index,DJI,Buy,Srong Buy
+2020-02-14,index,VIX,Sell,Srong Sell
+2020-02-14,index,SPX,Buy,Srong Buy
+2020-02-14,index,TSX,Sell,Srong Buy
+2020-02-14,index,NIFTY,Sell,Srong Buy
+2020-02-14,stock,JNJ,Neutral,Buy
+2020-02-14,stock,JPM,Buy,Srong Buy
+2020-02-14,stock,AAPL,Sell,Srong Buy
+2020-02-14,stock,BABA,Buy,Srong Buy
+2020-02-14,stock,FB,Sell,Srong Buy
+2020-02-14,stock,GOOG,Neutral,Srong Buy
+2020-02-14,stock,MSFT,Buy,Srong Buy
+2020-02-14,stock,AMZN,Neutral,Srong Buy
+2020-02-15,crypto,ETHUSD,Neutral,Srong Buy
+2020-02-15,crypto,BNBUSD,Neutral,Srong Buy
+2020-02-15,crypto,BTCUSD,Neutral,Srong Buy
+2020-02-15,crypto,XRPUSD,Buy,Srong Buy
+2020-02-15,crypto,IOTAUSD,Sell,Srong Buy
+2020-02-15,crypto,DASHUSD,Sell,Srong Buy
+2020-02-15,crypto,EOSUSD,Buy,Srong Buy
+2020-02-15,crypto,LTCUSD,Neutral,Srong Buy
+2020-02-16,crypto,BTCUSD,Buy,Srong Buy
+2020-02-16,crypto,BNBUSD,Buy,Srong Buy
+2020-02-16,crypto,DASHUSD,Neutral,Buy
+2020-02-16,crypto,IOTAUSD,Neutral,Buy
+2020-02-16,crypto,EOSUSD,Buy,Srong Buy
+2020-02-16,crypto,LTCUSD,Buy,Srong Buy
+2020-02-16,crypto,ETHUSD,Buy,Srong Buy
+2020-02-16,crypto,XRPUSD,Buy,Srong Buy
+2020-02-17,crypto,IOTAUSD,Neutral,Sell
+2020-02-17,crypto,EOSUSD,Sell,Neutral
+2020-02-17,crypto,XRPUSD,Buy,Srong Buy
+2020-02-17,crypto,LTCUSD,Neutral,Srong Buy
+2020-02-17,crypto,DASHUSD,Sell,Sell
+2020-02-17,crypto,ETHUSD,Buy,Srong Buy
+2020-02-17,crypto,BTCUSD,Neutral,Srong Buy
+2020-02-17,crypto,BNBUSD,Buy,Srong Buy
+2020-02-18,stock,BABA,Buy,Srong Buy
+2020-02-18,stock,JNJ,Sell,Buy
+2020-02-18,stock,JPM,Neutral,Srong Buy
+2020-02-18,stock,MSFT,Sell,Srong Buy
+2020-02-18,stock,GOOG,Buy,Srong Buy
+2020-02-18,stock,AMZN,Buy,Srong Buy
+2020-02-18,stock,AAPL,Sell,Srong Buy
+2020-02-18,stock,FB,Sell,Srong Buy
+2020-02-18,crypto,BTCUSD,Neutral,Buy
+2020-02-18,crypto,IOTAUSD,Sell,Sell
+2020-02-18,crypto,BNBUSD,Neutral,Srong Buy
+2020-02-18,crypto,EOSUSD,Neutral,Neutral
+2020-02-18,crypto,DASHUSD,Sell,Neutral
+2020-02-18,crypto,ETHUSD,Buy,Srong Buy
+2020-02-18,crypto,XRPUSD,Buy,Srong Buy
+2020-02-18,crypto,LTCUSD,Buy,Buy
+2020-02-18,index,DJI,Sell,Srong Buy
+2020-02-18,index,NI225,Buy,Sell
+2020-02-18,index,SPX,Neutral,Srong Buy
+2020-02-18,index,VIX,Neutral,Srong Sell
+2020-02-18,index,NIFTY,Buy,Sell
+2020-02-18,index,IXIC,Sell,Srong Buy
+2020-02-18,index,TSX,Neutral,Srong Buy
+2020-02-18,index,DAX,Buy,Srong Buy
+2020-02-19,index,IXIC,Buy,Srong Buy
+2020-02-19,index,NIFTY,Buy,Sell
+2020-02-19,index,NI225,Sell,Sell
+2020-02-19,index,DJI,Buy,Srong Buy
+2020-02-19,index,SPX,Buy,Srong Buy
+2020-02-19,index,DAX,Buy,Srong Buy
+2020-02-19,index,VIX,Sell,Buy
+2020-02-19,index,TSX,Buy,Srong Buy
+2020-02-19,crypto,EOSUSD,Sell,Buy
+2020-02-19,crypto,BTCUSD,Sell,Srong Buy
+2020-02-19,crypto,IOTAUSD,Neutral,Buy
+2020-02-19,crypto,LTCUSD,Sell,Srong Buy
+2020-02-19,crypto,BNBUSD,Sell,Srong Buy
+2020-02-19,crypto,DASHUSD,Buy,Buy
+2020-02-19,crypto,ETHUSD,Sell,Srong Buy
+2020-02-19,crypto,XRPUSD,Sell,Srong Buy
+2020-02-19,stock,GOOG,Buy,Srong Buy
+2020-02-19,stock,MSFT,Buy,Srong Buy
+2020-02-19,stock,AAPL,Sell,Buy
+2020-02-19,stock,FB,Neutral,Srong Buy
+2020-02-19,stock,JPM,Buy,Sell
+2020-02-19,stock,BABA,Buy,Srong Buy
+2020-02-19,stock,JNJ,Buy,Buy
+2020-02-19,stock,AMZN,Sell,Srong Buy
+2020-02-20,crypto,EOSUSD,Neutral,Sell
+2020-02-20,crypto,ETHUSD,Buy,Srong Buy
+2020-02-20,crypto,BTCUSD,Sell,Buy
+2020-02-20,crypto,LTCUSD,Neutral,Buy
+2020-02-20,crypto,BNBUSD,Neutral,Buy
+2020-02-20,crypto,DASHUSD,Sell,Sell
+2020-02-20,crypto,XRPUSD,Neutral,Buy
+2020-02-20,crypto,IOTAUSD,Sell,Neutral
+2020-02-20,index,NI225,Sell,Sell
+2020-02-20,index,DJI,Buy,Srong Buy
+2020-02-20,index,VIX,Sell,Sell
+2020-02-20,index,TSX,Buy,Srong Buy
+2020-02-20,index,DAX,Buy,Srong Buy
+2020-02-20,index,SPX,Buy,Srong Buy
+2020-02-20,index,NIFTY,Neutral,Srong Buy
+2020-02-20,index,IXIC,Buy,Srong Buy
+2020-02-20,stock,MSFT,Neutral,Srong Buy
+2020-02-20,stock,GOOG,Neutral,Srong Buy
+2020-02-20,stock,JNJ,Sell,Buy
+2020-02-20,stock,AAPL,Buy,Srong Buy
+2020-02-20,stock,FB,Buy,Srong Buy
+2020-02-20,stock,BABA,Buy,Srong Buy
+2020-02-20,stock,JPM,Buy,Srong Buy
+2020-02-20,stock,AMZN,Buy,Srong Buy
+2020-02-21,stock,JPM,Buy,Srong Buy
+2020-02-21,stock,AAPL,Sell,Srong Buy
+2020-02-21,stock,AMZN,Neutral,Srong Buy
+2020-02-21,stock,MSFT,Buy,Srong Buy
+2020-02-21,stock,GOOG,Sell,Srong Buy
+2020-02-21,stock,JNJ,Buy,Neutral
+2020-02-21,stock,BABA,Buy,Buy
+2020-02-21,stock,FB,Buy,Srong Buy
+2020-02-21,index,VIX,Neutral,Srong Buy
+2020-02-21,index,IXIC,Sell,Srong Buy
+2020-02-21,index,NIFTY,Buy,Buy
+2020-02-21,index,TSX,Neutral,Srong Buy
+2020-02-21,index,DAX,Buy,Srong Buy
+2020-02-21,index,DJI,Buy,Srong Buy
+2020-02-21,index,NI225,Neutral,Buy
+2020-02-21,index,SPX,Buy,Srong Buy
+2020-02-21,crypto,DASHUSD,Sell,Neutral
+2020-02-21,crypto,IOTAUSD,Sell,Sell
+2020-02-21,crypto,BTCUSD,Sell,Buy
+2020-02-21,crypto,BNBUSD,Neutral,Buy
+2020-02-21,crypto,LTCUSD,Sell,Buy
+2020-02-21,crypto,EOSUSD,Sell,Sell
+2020-02-21,crypto,XRPUSD,Sell,Buy
+2020-02-21,crypto,ETHUSD,Neutral,Srong Buy
+2020-02-22,crypto,IOTAUSD,Buy,Sell
+2020-02-22,crypto,BTCUSD,Buy,Buy
+2020-02-22,crypto,BNBUSD,Buy,Buy
+2020-02-22,crypto,ETHUSD,Buy,Srong Buy
+2020-02-22,crypto,DASHUSD,Buy,Neutral
+2020-02-22,crypto,LTCUSD,Sell,Buy
+2020-02-22,crypto,EOSUSD,Buy,Neutral
+2020-02-22,crypto,XRPUSD,Buy,Buy
